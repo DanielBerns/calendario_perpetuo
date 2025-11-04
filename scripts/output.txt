@@ -1,0 +1,1472 @@
+--- Perpetual Calendar vs. Standard Calendar (Constellation-Inspired Seasons) ---
+Proposed Days: Solis, Lunae, Stellae, Terrae, Aquae, Aeris, Ignis
+Proposed Seasons: Hunter, Lion, Eagle, Water Bearer (13 weeks each)
+
+Interpretive Overlay for Seasonal Experience:
+  - Hunter: Northern Winter / Southern Summer (Starts after Dec Solstice)
+  - Lion:      Northern Spring / Southern Autumn (Starts after March Equinox)
+  - Eagle:     Northern Summer / Southern Winter (Starts after June Solstice)
+  - Water Bearer:     Northern Autumn / Southern Spring (Starts after Sept Equinox)
+
+Standard: Sunday    December 21, 2025    |   Perpetual: --- Year Day (December Solstice)   ---
+Standard: Monday    December 22, 2025    |   Perpetual: Solis     Hunter      Week 1  
+Standard: Tuesday   December 23, 2025    |   Perpetual: Lunae     Hunter      Week 1  
+Standard: Wednesday December 24, 2025    |   Perpetual: Stellae   Hunter      Week 1  
+Standard: Thursday  December 25, 2025    |   Perpetual: Terrae    Hunter      Week 1  
+Standard: Friday    December 26, 2025    |   Perpetual: Aquae     Hunter      Week 1  
+Standard: Saturday  December 27, 2025    |   Perpetual: Aeris     Hunter      Week 1  
+Standard: Sunday    December 28, 2025    |   Perpetual: Ignis     Hunter      Week 1  
+Standard: Monday    December 29, 2025    |   Perpetual: Solis     Hunter      Week 2  
+Standard: Tuesday   December 30, 2025    |   Perpetual: Lunae     Hunter      Week 2  
+Standard: Wednesday December 31, 2025    |   Perpetual: Stellae   Hunter      Week 2  
+Standard: Thursday  January 01, 2026     |   Perpetual: Terrae    Hunter      Week 2  
+Standard: Friday    January 02, 2026     |   Perpetual: Aquae     Hunter      Week 2  
+Standard: Saturday  January 03, 2026     |   Perpetual: Aeris     Hunter      Week 2  
+Standard: Sunday    January 04, 2026     |   Perpetual: Ignis     Hunter      Week 2  
+Standard: Monday    January 05, 2026     |   Perpetual: Solis     Hunter      Week 3  
+Standard: Tuesday   January 06, 2026     |   Perpetual: Lunae     Hunter      Week 3  
+Standard: Wednesday January 07, 2026     |   Perpetual: Stellae   Hunter      Week 3  
+Standard: Thursday  January 08, 2026     |   Perpetual: Terrae    Hunter      Week 3  
+Standard: Friday    January 09, 2026     |   Perpetual: Aquae     Hunter      Week 3  
+Standard: Saturday  January 10, 2026     |   Perpetual: Aeris     Hunter      Week 3  
+Standard: Sunday    January 11, 2026     |   Perpetual: Ignis     Hunter      Week 3  
+Standard: Monday    January 12, 2026     |   Perpetual: Solis     Hunter      Week 4  
+Standard: Tuesday   January 13, 2026     |   Perpetual: Lunae     Hunter      Week 4  
+Standard: Wednesday January 14, 2026     |   Perpetual: Stellae   Hunter      Week 4  
+Standard: Thursday  January 15, 2026     |   Perpetual: Terrae    Hunter      Week 4  
+Standard: Friday    January 16, 2026     |   Perpetual: Aquae     Hunter      Week 4  
+Standard: Saturday  January 17, 2026     |   Perpetual: Aeris     Hunter      Week 4  
+Standard: Sunday    January 18, 2026     |   Perpetual: Ignis     Hunter      Week 4  
+Standard: Monday    January 19, 2026     |   Perpetual: Solis     Hunter      Week 5  
+Standard: Tuesday   January 20, 2026     |   Perpetual: Lunae     Hunter      Week 5  
+Standard: Wednesday January 21, 2026     |   Perpetual: Stellae   Hunter      Week 5  
+Standard: Thursday  January 22, 2026     |   Perpetual: Terrae    Hunter      Week 5  
+Standard: Friday    January 23, 2026     |   Perpetual: Aquae     Hunter      Week 5  
+Standard: Saturday  January 24, 2026     |   Perpetual: Aeris     Hunter      Week 5  
+Standard: Sunday    January 25, 2026     |   Perpetual: Ignis     Hunter      Week 5  
+Standard: Monday    January 26, 2026     |   Perpetual: Solis     Hunter      Week 6  
+Standard: Tuesday   January 27, 2026     |   Perpetual: Lunae     Hunter      Week 6  
+Standard: Wednesday January 28, 2026     |   Perpetual: Stellae   Hunter      Week 6  
+Standard: Thursday  January 29, 2026     |   Perpetual: Terrae    Hunter      Week 6  
+Standard: Friday    January 30, 2026     |   Perpetual: Aquae     Hunter      Week 6  
+Standard: Saturday  January 31, 2026     |   Perpetual: Aeris     Hunter      Week 6  
+Standard: Sunday    February 01, 2026    |   Perpetual: Ignis     Hunter      Week 6  
+Standard: Monday    February 02, 2026    |   Perpetual: Solis     Hunter      Week 7  
+Standard: Tuesday   February 03, 2026    |   Perpetual: Lunae     Hunter      Week 7  
+Standard: Wednesday February 04, 2026    |   Perpetual: Stellae   Hunter      Week 7  
+Standard: Thursday  February 05, 2026    |   Perpetual: Terrae    Hunter      Week 7  
+Standard: Friday    February 06, 2026    |   Perpetual: Aquae     Hunter      Week 7  
+Standard: Saturday  February 07, 2026    |   Perpetual: Aeris     Hunter      Week 7  
+Standard: Sunday    February 08, 2026    |   Perpetual: Ignis     Hunter      Week 7  
+Standard: Monday    February 09, 2026    |   Perpetual: Solis     Hunter      Week 8  
+Standard: Tuesday   February 10, 2026    |   Perpetual: Lunae     Hunter      Week 8  
+Standard: Wednesday February 11, 2026    |   Perpetual: Stellae   Hunter      Week 8  
+Standard: Thursday  February 12, 2026    |   Perpetual: Terrae    Hunter      Week 8  
+Standard: Friday    February 13, 2026    |   Perpetual: Aquae     Hunter      Week 8  
+Standard: Saturday  February 14, 2026    |   Perpetual: Aeris     Hunter      Week 8  
+Standard: Sunday    February 15, 2026    |   Perpetual: Ignis     Hunter      Week 8  
+Standard: Monday    February 16, 2026    |   Perpetual: Solis     Hunter      Week 9  
+Standard: Tuesday   February 17, 2026    |   Perpetual: Lunae     Hunter      Week 9  
+Standard: Wednesday February 18, 2026    |   Perpetual: Stellae   Hunter      Week 9  
+Standard: Thursday  February 19, 2026    |   Perpetual: Terrae    Hunter      Week 9  
+Standard: Friday    February 20, 2026    |   Perpetual: Aquae     Hunter      Week 9  
+Standard: Saturday  February 21, 2026    |   Perpetual: Aeris     Hunter      Week 9  
+Standard: Sunday    February 22, 2026    |   Perpetual: Ignis     Hunter      Week 9  
+Standard: Monday    February 23, 2026    |   Perpetual: Solis     Hunter      Week 10 
+Standard: Tuesday   February 24, 2026    |   Perpetual: Lunae     Hunter      Week 10 
+Standard: Wednesday February 25, 2026    |   Perpetual: Stellae   Hunter      Week 10 
+Standard: Thursday  February 26, 2026    |   Perpetual: Terrae    Hunter      Week 10 
+Standard: Friday    February 27, 2026    |   Perpetual: Aquae     Hunter      Week 10 
+Standard: Saturday  February 28, 2026    |   Perpetual: Aeris     Hunter      Week 10 
+Standard: Sunday    March 01, 2026       |   Perpetual: Ignis     Hunter      Week 10 
+Standard: Monday    March 02, 2026       |   Perpetual: Solis     Hunter      Week 11 
+Standard: Tuesday   March 03, 2026       |   Perpetual: Lunae     Hunter      Week 11 
+Standard: Wednesday March 04, 2026       |   Perpetual: Stellae   Hunter      Week 11 
+Standard: Thursday  March 05, 2026       |   Perpetual: Terrae    Hunter      Week 11 
+Standard: Friday    March 06, 2026       |   Perpetual: Aquae     Hunter      Week 11 
+Standard: Saturday  March 07, 2026       |   Perpetual: Aeris     Hunter      Week 11 
+Standard: Sunday    March 08, 2026       |   Perpetual: Ignis     Hunter      Week 11 
+Standard: Monday    March 09, 2026       |   Perpetual: Solis     Hunter      Week 12 
+Standard: Tuesday   March 10, 2026       |   Perpetual: Lunae     Hunter      Week 12 
+Standard: Wednesday March 11, 2026       |   Perpetual: Stellae   Hunter      Week 12 
+Standard: Thursday  March 12, 2026       |   Perpetual: Terrae    Hunter      Week 12 
+Standard: Friday    March 13, 2026       |   Perpetual: Aquae     Hunter      Week 12 
+Standard: Saturday  March 14, 2026       |   Perpetual: Aeris     Hunter      Week 12 
+Standard: Sunday    March 15, 2026       |   Perpetual: Ignis     Hunter      Week 12 
+Standard: Monday    March 16, 2026       |   Perpetual: Solis     Hunter      Week 13 
+Standard: Tuesday   March 17, 2026       |   Perpetual: Lunae     Hunter      Week 13 
+Standard: Wednesday March 18, 2026       |   Perpetual: Stellae   Hunter      Week 13 
+Standard: Thursday  March 19, 2026       |   Perpetual: Terrae    Hunter      Week 13 
+Standard: Friday    March 20, 2026       |   Perpetual: Aquae     Hunter      Week 13 
+Standard: Saturday  March 21, 2026       |   Perpetual: Aeris     Hunter      Week 13 
+Standard: Sunday    March 22, 2026       |   Perpetual: Ignis     Hunter      Week 13 
+Standard: Monday    March 23, 2026       |   Perpetual: Solis     Lion        Week 1  
+Standard: Tuesday   March 24, 2026       |   Perpetual: Lunae     Lion        Week 1  
+Standard: Wednesday March 25, 2026       |   Perpetual: Stellae   Lion        Week 1  
+Standard: Thursday  March 26, 2026       |   Perpetual: Terrae    Lion        Week 1  
+Standard: Friday    March 27, 2026       |   Perpetual: Aquae     Lion        Week 1  
+Standard: Saturday  March 28, 2026       |   Perpetual: Aeris     Lion        Week 1  
+Standard: Sunday    March 29, 2026       |   Perpetual: Ignis     Lion        Week 1  
+Standard: Monday    March 30, 2026       |   Perpetual: Solis     Lion        Week 2  
+Standard: Tuesday   March 31, 2026       |   Perpetual: Lunae     Lion        Week 2  
+Standard: Wednesday April 01, 2026       |   Perpetual: Stellae   Lion        Week 2  
+Standard: Thursday  April 02, 2026       |   Perpetual: Terrae    Lion        Week 2  
+Standard: Friday    April 03, 2026       |   Perpetual: Aquae     Lion        Week 2  
+Standard: Saturday  April 04, 2026       |   Perpetual: Aeris     Lion        Week 2  
+Standard: Sunday    April 05, 2026       |   Perpetual: Ignis     Lion        Week 2  
+Standard: Monday    April 06, 2026       |   Perpetual: Solis     Lion        Week 3  
+Standard: Tuesday   April 07, 2026       |   Perpetual: Lunae     Lion        Week 3  
+Standard: Wednesday April 08, 2026       |   Perpetual: Stellae   Lion        Week 3  
+Standard: Thursday  April 09, 2026       |   Perpetual: Terrae    Lion        Week 3  
+Standard: Friday    April 10, 2026       |   Perpetual: Aquae     Lion        Week 3  
+Standard: Saturday  April 11, 2026       |   Perpetual: Aeris     Lion        Week 3  
+Standard: Sunday    April 12, 2026       |   Perpetual: Ignis     Lion        Week 3  
+Standard: Monday    April 13, 2026       |   Perpetual: Solis     Lion        Week 4  
+Standard: Tuesday   April 14, 2026       |   Perpetual: Lunae     Lion        Week 4  
+Standard: Wednesday April 15, 2026       |   Perpetual: Stellae   Lion        Week 4  
+Standard: Thursday  April 16, 2026       |   Perpetual: Terrae    Lion        Week 4  
+Standard: Friday    April 17, 2026       |   Perpetual: Aquae     Lion        Week 4  
+Standard: Saturday  April 18, 2026       |   Perpetual: Aeris     Lion        Week 4  
+Standard: Sunday    April 19, 2026       |   Perpetual: Ignis     Lion        Week 4  
+Standard: Monday    April 20, 2026       |   Perpetual: Solis     Lion        Week 5  
+Standard: Tuesday   April 21, 2026       |   Perpetual: Lunae     Lion        Week 5  
+Standard: Wednesday April 22, 2026       |   Perpetual: Stellae   Lion        Week 5  
+Standard: Thursday  April 23, 2026       |   Perpetual: Terrae    Lion        Week 5  
+Standard: Friday    April 24, 2026       |   Perpetual: Aquae     Lion        Week 5  
+Standard: Saturday  April 25, 2026       |   Perpetual: Aeris     Lion        Week 5  
+Standard: Sunday    April 26, 2026       |   Perpetual: Ignis     Lion        Week 5  
+Standard: Monday    April 27, 2026       |   Perpetual: Solis     Lion        Week 6  
+Standard: Tuesday   April 28, 2026       |   Perpetual: Lunae     Lion        Week 6  
+Standard: Wednesday April 29, 2026       |   Perpetual: Stellae   Lion        Week 6  
+Standard: Thursday  April 30, 2026       |   Perpetual: Terrae    Lion        Week 6  
+Standard: Friday    May 01, 2026         |   Perpetual: Aquae     Lion        Week 6  
+Standard: Saturday  May 02, 2026         |   Perpetual: Aeris     Lion        Week 6  
+Standard: Sunday    May 03, 2026         |   Perpetual: Ignis     Lion        Week 6  
+Standard: Monday    May 04, 2026         |   Perpetual: Solis     Lion        Week 7  
+Standard: Tuesday   May 05, 2026         |   Perpetual: Lunae     Lion        Week 7  
+Standard: Wednesday May 06, 2026         |   Perpetual: Stellae   Lion        Week 7  
+Standard: Thursday  May 07, 2026         |   Perpetual: Terrae    Lion        Week 7  
+Standard: Friday    May 08, 2026         |   Perpetual: Aquae     Lion        Week 7  
+Standard: Saturday  May 09, 2026         |   Perpetual: Aeris     Lion        Week 7  
+Standard: Sunday    May 10, 2026         |   Perpetual: Ignis     Lion        Week 7  
+Standard: Monday    May 11, 2026         |   Perpetual: Solis     Lion        Week 8  
+Standard: Tuesday   May 12, 2026         |   Perpetual: Lunae     Lion        Week 8  
+Standard: Wednesday May 13, 2026         |   Perpetual: Stellae   Lion        Week 8  
+Standard: Thursday  May 14, 2026         |   Perpetual: Terrae    Lion        Week 8  
+Standard: Friday    May 15, 2026         |   Perpetual: Aquae     Lion        Week 8  
+Standard: Saturday  May 16, 2026         |   Perpetual: Aeris     Lion        Week 8  
+Standard: Sunday    May 17, 2026         |   Perpetual: Ignis     Lion        Week 8  
+Standard: Monday    May 18, 2026         |   Perpetual: Solis     Lion        Week 9  
+Standard: Tuesday   May 19, 2026         |   Perpetual: Lunae     Lion        Week 9  
+Standard: Wednesday May 20, 2026         |   Perpetual: Stellae   Lion        Week 9  
+Standard: Thursday  May 21, 2026         |   Perpetual: Terrae    Lion        Week 9  
+Standard: Friday    May 22, 2026         |   Perpetual: Aquae     Lion        Week 9  
+Standard: Saturday  May 23, 2026         |   Perpetual: Aeris     Lion        Week 9  
+Standard: Sunday    May 24, 2026         |   Perpetual: Ignis     Lion        Week 9  
+Standard: Monday    May 25, 2026         |   Perpetual: Solis     Lion        Week 10 
+Standard: Tuesday   May 26, 2026         |   Perpetual: Lunae     Lion        Week 10 
+Standard: Wednesday May 27, 2026         |   Perpetual: Stellae   Lion        Week 10 
+Standard: Thursday  May 28, 2026         |   Perpetual: Terrae    Lion        Week 10 
+Standard: Friday    May 29, 2026         |   Perpetual: Aquae     Lion        Week 10 
+Standard: Saturday  May 30, 2026         |   Perpetual: Aeris     Lion        Week 10 
+Standard: Sunday    May 31, 2026         |   Perpetual: Ignis     Lion        Week 10 
+Standard: Monday    June 01, 2026        |   Perpetual: Solis     Lion        Week 11 
+Standard: Tuesday   June 02, 2026        |   Perpetual: Lunae     Lion        Week 11 
+Standard: Wednesday June 03, 2026        |   Perpetual: Stellae   Lion        Week 11 
+Standard: Thursday  June 04, 2026        |   Perpetual: Terrae    Lion        Week 11 
+Standard: Friday    June 05, 2026        |   Perpetual: Aquae     Lion        Week 11 
+Standard: Saturday  June 06, 2026        |   Perpetual: Aeris     Lion        Week 11 
+Standard: Sunday    June 07, 2026        |   Perpetual: Ignis     Lion        Week 11 
+Standard: Monday    June 08, 2026        |   Perpetual: Solis     Lion        Week 12 
+Standard: Tuesday   June 09, 2026        |   Perpetual: Lunae     Lion        Week 12 
+Standard: Wednesday June 10, 2026        |   Perpetual: Stellae   Lion        Week 12 
+Standard: Thursday  June 11, 2026        |   Perpetual: Terrae    Lion        Week 12 
+Standard: Friday    June 12, 2026        |   Perpetual: Aquae     Lion        Week 12 
+Standard: Saturday  June 13, 2026        |   Perpetual: Aeris     Lion        Week 12 
+Standard: Sunday    June 14, 2026        |   Perpetual: Ignis     Lion        Week 12 
+Standard: Monday    June 15, 2026        |   Perpetual: Solis     Lion        Week 13 
+Standard: Tuesday   June 16, 2026        |   Perpetual: Lunae     Lion        Week 13 
+Standard: Wednesday June 17, 2026        |   Perpetual: Stellae   Lion        Week 13 
+Standard: Thursday  June 18, 2026        |   Perpetual: Terrae    Lion        Week 13 
+Standard: Friday    June 19, 2026        |   Perpetual: Aquae     Lion        Week 13 
+Standard: Saturday  June 20, 2026        |   Perpetual: Aeris     Lion        Week 13 
+Standard: Sunday    June 21, 2026        |   Perpetual: Ignis     Lion        Week 13 
+Standard: Monday    June 22, 2026        |   Perpetual: Solis     Eagle       Week 1  
+Standard: Tuesday   June 23, 2026        |   Perpetual: Lunae     Eagle       Week 1  
+Standard: Wednesday June 24, 2026        |   Perpetual: Stellae   Eagle       Week 1  
+Standard: Thursday  June 25, 2026        |   Perpetual: Terrae    Eagle       Week 1  
+Standard: Friday    June 26, 2026        |   Perpetual: Aquae     Eagle       Week 1  
+Standard: Saturday  June 27, 2026        |   Perpetual: Aeris     Eagle       Week 1  
+Standard: Sunday    June 28, 2026        |   Perpetual: Ignis     Eagle       Week 1  
+Standard: Monday    June 29, 2026        |   Perpetual: Solis     Eagle       Week 2  
+Standard: Tuesday   June 30, 2026        |   Perpetual: Lunae     Eagle       Week 2  
+Standard: Wednesday July 01, 2026        |   Perpetual: Stellae   Eagle       Week 2  
+Standard: Thursday  July 02, 2026        |   Perpetual: Terrae    Eagle       Week 2  
+Standard: Friday    July 03, 2026        |   Perpetual: Aquae     Eagle       Week 2  
+Standard: Saturday  July 04, 2026        |   Perpetual: Aeris     Eagle       Week 2  
+Standard: Sunday    July 05, 2026        |   Perpetual: Ignis     Eagle       Week 2  
+Standard: Monday    July 06, 2026        |   Perpetual: Solis     Eagle       Week 3  
+Standard: Tuesday   July 07, 2026        |   Perpetual: Lunae     Eagle       Week 3  
+Standard: Wednesday July 08, 2026        |   Perpetual: Stellae   Eagle       Week 3  
+Standard: Thursday  July 09, 2026        |   Perpetual: Terrae    Eagle       Week 3  
+Standard: Friday    July 10, 2026        |   Perpetual: Aquae     Eagle       Week 3  
+Standard: Saturday  July 11, 2026        |   Perpetual: Aeris     Eagle       Week 3  
+Standard: Sunday    July 12, 2026        |   Perpetual: Ignis     Eagle       Week 3  
+Standard: Monday    July 13, 2026        |   Perpetual: Solis     Eagle       Week 4  
+Standard: Tuesday   July 14, 2026        |   Perpetual: Lunae     Eagle       Week 4  
+Standard: Wednesday July 15, 2026        |   Perpetual: Stellae   Eagle       Week 4  
+Standard: Thursday  July 16, 2026        |   Perpetual: Terrae    Eagle       Week 4  
+Standard: Friday    July 17, 2026        |   Perpetual: Aquae     Eagle       Week 4  
+Standard: Saturday  July 18, 2026        |   Perpetual: Aeris     Eagle       Week 4  
+Standard: Sunday    July 19, 2026        |   Perpetual: Ignis     Eagle       Week 4  
+Standard: Monday    July 20, 2026        |   Perpetual: Solis     Eagle       Week 5  
+Standard: Tuesday   July 21, 2026        |   Perpetual: Lunae     Eagle       Week 5  
+Standard: Wednesday July 22, 2026        |   Perpetual: Stellae   Eagle       Week 5  
+Standard: Thursday  July 23, 2026        |   Perpetual: Terrae    Eagle       Week 5  
+Standard: Friday    July 24, 2026        |   Perpetual: Aquae     Eagle       Week 5  
+Standard: Saturday  July 25, 2026        |   Perpetual: Aeris     Eagle       Week 5  
+Standard: Sunday    July 26, 2026        |   Perpetual: Ignis     Eagle       Week 5  
+Standard: Monday    July 27, 2026        |   Perpetual: Solis     Eagle       Week 6  
+Standard: Tuesday   July 28, 2026        |   Perpetual: Lunae     Eagle       Week 6  
+Standard: Wednesday July 29, 2026        |   Perpetual: Stellae   Eagle       Week 6  
+Standard: Thursday  July 30, 2026        |   Perpetual: Terrae    Eagle       Week 6  
+Standard: Friday    July 31, 2026        |   Perpetual: Aquae     Eagle       Week 6  
+Standard: Saturday  August 01, 2026      |   Perpetual: Aeris     Eagle       Week 6  
+Standard: Sunday    August 02, 2026      |   Perpetual: Ignis     Eagle       Week 6  
+Standard: Monday    August 03, 2026      |   Perpetual: Solis     Eagle       Week 7  
+Standard: Tuesday   August 04, 2026      |   Perpetual: Lunae     Eagle       Week 7  
+Standard: Wednesday August 05, 2026      |   Perpetual: Stellae   Eagle       Week 7  
+Standard: Thursday  August 06, 2026      |   Perpetual: Terrae    Eagle       Week 7  
+Standard: Friday    August 07, 2026      |   Perpetual: Aquae     Eagle       Week 7  
+Standard: Saturday  August 08, 2026      |   Perpetual: Aeris     Eagle       Week 7  
+Standard: Sunday    August 09, 2026      |   Perpetual: Ignis     Eagle       Week 7  
+Standard: Monday    August 10, 2026      |   Perpetual: Solis     Eagle       Week 8  
+Standard: Tuesday   August 11, 2026      |   Perpetual: Lunae     Eagle       Week 8  
+Standard: Wednesday August 12, 2026      |   Perpetual: Stellae   Eagle       Week 8  
+Standard: Thursday  August 13, 2026      |   Perpetual: Terrae    Eagle       Week 8  
+Standard: Friday    August 14, 2026      |   Perpetual: Aquae     Eagle       Week 8  
+Standard: Saturday  August 15, 2026      |   Perpetual: Aeris     Eagle       Week 8  
+Standard: Sunday    August 16, 2026      |   Perpetual: Ignis     Eagle       Week 8  
+Standard: Monday    August 17, 2026      |   Perpetual: Solis     Eagle       Week 9  
+Standard: Tuesday   August 18, 2026      |   Perpetual: Lunae     Eagle       Week 9  
+Standard: Wednesday August 19, 2026      |   Perpetual: Stellae   Eagle       Week 9  
+Standard: Thursday  August 20, 2026      |   Perpetual: Terrae    Eagle       Week 9  
+Standard: Friday    August 21, 2026      |   Perpetual: Aquae     Eagle       Week 9  
+Standard: Saturday  August 22, 2026      |   Perpetual: Aeris     Eagle       Week 9  
+Standard: Sunday    August 23, 2026      |   Perpetual: Ignis     Eagle       Week 9  
+Standard: Monday    August 24, 2026      |   Perpetual: Solis     Eagle       Week 10 
+Standard: Tuesday   August 25, 2026      |   Perpetual: Lunae     Eagle       Week 10 
+Standard: Wednesday August 26, 2026      |   Perpetual: Stellae   Eagle       Week 10 
+Standard: Thursday  August 27, 2026      |   Perpetual: Terrae    Eagle       Week 10 
+Standard: Friday    August 28, 2026      |   Perpetual: Aquae     Eagle       Week 10 
+Standard: Saturday  August 29, 2026      |   Perpetual: Aeris     Eagle       Week 10 
+Standard: Sunday    August 30, 2026      |   Perpetual: Ignis     Eagle       Week 10 
+Standard: Monday    August 31, 2026      |   Perpetual: Solis     Eagle       Week 11 
+Standard: Tuesday   September 01, 2026   |   Perpetual: Lunae     Eagle       Week 11 
+Standard: Wednesday September 02, 2026   |   Perpetual: Stellae   Eagle       Week 11 
+Standard: Thursday  September 03, 2026   |   Perpetual: Terrae    Eagle       Week 11 
+Standard: Friday    September 04, 2026   |   Perpetual: Aquae     Eagle       Week 11 
+Standard: Saturday  September 05, 2026   |   Perpetual: Aeris     Eagle       Week 11 
+Standard: Sunday    September 06, 2026   |   Perpetual: Ignis     Eagle       Week 11 
+Standard: Monday    September 07, 2026   |   Perpetual: Solis     Eagle       Week 12 
+Standard: Tuesday   September 08, 2026   |   Perpetual: Lunae     Eagle       Week 12 
+Standard: Wednesday September 09, 2026   |   Perpetual: Stellae   Eagle       Week 12 
+Standard: Thursday  September 10, 2026   |   Perpetual: Terrae    Eagle       Week 12 
+Standard: Friday    September 11, 2026   |   Perpetual: Aquae     Eagle       Week 12 
+Standard: Saturday  September 12, 2026   |   Perpetual: Aeris     Eagle       Week 12 
+Standard: Sunday    September 13, 2026   |   Perpetual: Ignis     Eagle       Week 12 
+Standard: Monday    September 14, 2026   |   Perpetual: Solis     Eagle       Week 13 
+Standard: Tuesday   September 15, 2026   |   Perpetual: Lunae     Eagle       Week 13 
+Standard: Wednesday September 16, 2026   |   Perpetual: Stellae   Eagle       Week 13 
+Standard: Thursday  September 17, 2026   |   Perpetual: Terrae    Eagle       Week 13 
+Standard: Friday    September 18, 2026   |   Perpetual: Aquae     Eagle       Week 13 
+Standard: Saturday  September 19, 2026   |   Perpetual: Aeris     Eagle       Week 13 
+Standard: Sunday    September 20, 2026   |   Perpetual: Ignis     Eagle       Week 13 
+Standard: Monday    September 21, 2026   |   Perpetual: Solis     Water Bearer Week 1  
+Standard: Tuesday   September 22, 2026   |   Perpetual: Lunae     Water Bearer Week 1  
+Standard: Wednesday September 23, 2026   |   Perpetual: Stellae   Water Bearer Week 1  
+Standard: Thursday  September 24, 2026   |   Perpetual: Terrae    Water Bearer Week 1  
+Standard: Friday    September 25, 2026   |   Perpetual: Aquae     Water Bearer Week 1  
+Standard: Saturday  September 26, 2026   |   Perpetual: Aeris     Water Bearer Week 1  
+Standard: Sunday    September 27, 2026   |   Perpetual: Ignis     Water Bearer Week 1  
+Standard: Monday    September 28, 2026   |   Perpetual: Solis     Water Bearer Week 2  
+Standard: Tuesday   September 29, 2026   |   Perpetual: Lunae     Water Bearer Week 2  
+Standard: Wednesday September 30, 2026   |   Perpetual: Stellae   Water Bearer Week 2  
+Standard: Thursday  October 01, 2026     |   Perpetual: Terrae    Water Bearer Week 2  
+Standard: Friday    October 02, 2026     |   Perpetual: Aquae     Water Bearer Week 2  
+Standard: Saturday  October 03, 2026     |   Perpetual: Aeris     Water Bearer Week 2  
+Standard: Sunday    October 04, 2026     |   Perpetual: Ignis     Water Bearer Week 2  
+Standard: Monday    October 05, 2026     |   Perpetual: Solis     Water Bearer Week 3  
+Standard: Tuesday   October 06, 2026     |   Perpetual: Lunae     Water Bearer Week 3  
+Standard: Wednesday October 07, 2026     |   Perpetual: Stellae   Water Bearer Week 3  
+Standard: Thursday  October 08, 2026     |   Perpetual: Terrae    Water Bearer Week 3  
+Standard: Friday    October 09, 2026     |   Perpetual: Aquae     Water Bearer Week 3  
+Standard: Saturday  October 10, 2026     |   Perpetual: Aeris     Water Bearer Week 3  
+Standard: Sunday    October 11, 2026     |   Perpetual: Ignis     Water Bearer Week 3  
+Standard: Monday    October 12, 2026     |   Perpetual: Solis     Water Bearer Week 4  
+Standard: Tuesday   October 13, 2026     |   Perpetual: Lunae     Water Bearer Week 4  
+Standard: Wednesday October 14, 2026     |   Perpetual: Stellae   Water Bearer Week 4  
+Standard: Thursday  October 15, 2026     |   Perpetual: Terrae    Water Bearer Week 4  
+Standard: Friday    October 16, 2026     |   Perpetual: Aquae     Water Bearer Week 4  
+Standard: Saturday  October 17, 2026     |   Perpetual: Aeris     Water Bearer Week 4  
+Standard: Sunday    October 18, 2026     |   Perpetual: Ignis     Water Bearer Week 4  
+Standard: Monday    October 19, 2026     |   Perpetual: Solis     Water Bearer Week 5  
+Standard: Tuesday   October 20, 2026     |   Perpetual: Lunae     Water Bearer Week 5  
+Standard: Wednesday October 21, 2026     |   Perpetual: Stellae   Water Bearer Week 5  
+Standard: Thursday  October 22, 2026     |   Perpetual: Terrae    Water Bearer Week 5  
+Standard: Friday    October 23, 2026     |   Perpetual: Aquae     Water Bearer Week 5  
+Standard: Saturday  October 24, 2026     |   Perpetual: Aeris     Water Bearer Week 5  
+Standard: Sunday    October 25, 2026     |   Perpetual: Ignis     Water Bearer Week 5  
+Standard: Monday    October 26, 2026     |   Perpetual: Solis     Water Bearer Week 6  
+Standard: Tuesday   October 27, 2026     |   Perpetual: Lunae     Water Bearer Week 6  
+Standard: Wednesday October 28, 2026     |   Perpetual: Stellae   Water Bearer Week 6  
+Standard: Thursday  October 29, 2026     |   Perpetual: Terrae    Water Bearer Week 6  
+Standard: Friday    October 30, 2026     |   Perpetual: Aquae     Water Bearer Week 6  
+Standard: Saturday  October 31, 2026     |   Perpetual: Aeris     Water Bearer Week 6  
+Standard: Sunday    November 01, 2026    |   Perpetual: Ignis     Water Bearer Week 6  
+Standard: Monday    November 02, 2026    |   Perpetual: Solis     Water Bearer Week 7  
+Standard: Tuesday   November 03, 2026    |   Perpetual: Lunae     Water Bearer Week 7  
+Standard: Wednesday November 04, 2026    |   Perpetual: Stellae   Water Bearer Week 7  
+Standard: Thursday  November 05, 2026    |   Perpetual: Terrae    Water Bearer Week 7  
+Standard: Friday    November 06, 2026    |   Perpetual: Aquae     Water Bearer Week 7  
+Standard: Saturday  November 07, 2026    |   Perpetual: Aeris     Water Bearer Week 7  
+Standard: Sunday    November 08, 2026    |   Perpetual: Ignis     Water Bearer Week 7  
+Standard: Monday    November 09, 2026    |   Perpetual: Solis     Water Bearer Week 8  
+Standard: Tuesday   November 10, 2026    |   Perpetual: Lunae     Water Bearer Week 8  
+Standard: Wednesday November 11, 2026    |   Perpetual: Stellae   Water Bearer Week 8  
+Standard: Thursday  November 12, 2026    |   Perpetual: Terrae    Water Bearer Week 8  
+Standard: Friday    November 13, 2026    |   Perpetual: Aquae     Water Bearer Week 8  
+Standard: Saturday  November 14, 2026    |   Perpetual: Aeris     Water Bearer Week 8  
+Standard: Sunday    November 15, 2026    |   Perpetual: Ignis     Water Bearer Week 8  
+Standard: Monday    November 16, 2026    |   Perpetual: Solis     Water Bearer Week 9  
+Standard: Tuesday   November 17, 2026    |   Perpetual: Lunae     Water Bearer Week 9  
+Standard: Wednesday November 18, 2026    |   Perpetual: Stellae   Water Bearer Week 9  
+Standard: Thursday  November 19, 2026    |   Perpetual: Terrae    Water Bearer Week 9  
+Standard: Friday    November 20, 2026    |   Perpetual: Aquae     Water Bearer Week 9  
+Standard: Saturday  November 21, 2026    |   Perpetual: Aeris     Water Bearer Week 9  
+Standard: Sunday    November 22, 2026    |   Perpetual: Ignis     Water Bearer Week 9  
+Standard: Monday    November 23, 2026    |   Perpetual: Solis     Water Bearer Week 10 
+Standard: Tuesday   November 24, 2026    |   Perpetual: Lunae     Water Bearer Week 10 
+Standard: Wednesday November 25, 2026    |   Perpetual: Stellae   Water Bearer Week 10 
+Standard: Thursday  November 26, 2026    |   Perpetual: Terrae    Water Bearer Week 10 
+Standard: Friday    November 27, 2026    |   Perpetual: Aquae     Water Bearer Week 10 
+Standard: Saturday  November 28, 2026    |   Perpetual: Aeris     Water Bearer Week 10 
+Standard: Sunday    November 29, 2026    |   Perpetual: Ignis     Water Bearer Week 10 
+Standard: Monday    November 30, 2026    |   Perpetual: Solis     Water Bearer Week 11 
+Standard: Tuesday   December 01, 2026    |   Perpetual: Lunae     Water Bearer Week 11 
+Standard: Wednesday December 02, 2026    |   Perpetual: Stellae   Water Bearer Week 11 
+Standard: Thursday  December 03, 2026    |   Perpetual: Terrae    Water Bearer Week 11 
+Standard: Friday    December 04, 2026    |   Perpetual: Aquae     Water Bearer Week 11 
+Standard: Saturday  December 05, 2026    |   Perpetual: Aeris     Water Bearer Week 11 
+Standard: Sunday    December 06, 2026    |   Perpetual: Ignis     Water Bearer Week 11 
+Standard: Monday    December 07, 2026    |   Perpetual: Solis     Water Bearer Week 12 
+Standard: Tuesday   December 08, 2026    |   Perpetual: Lunae     Water Bearer Week 12 
+Standard: Wednesday December 09, 2026    |   Perpetual: Stellae   Water Bearer Week 12 
+Standard: Thursday  December 10, 2026    |   Perpetual: Terrae    Water Bearer Week 12 
+Standard: Friday    December 11, 2026    |   Perpetual: Aquae     Water Bearer Week 12 
+Standard: Saturday  December 12, 2026    |   Perpetual: Aeris     Water Bearer Week 12 
+Standard: Sunday    December 13, 2026    |   Perpetual: Ignis     Water Bearer Week 12 
+Standard: Monday    December 14, 2026    |   Perpetual: Solis     Water Bearer Week 13 
+Standard: Tuesday   December 15, 2026    |   Perpetual: Lunae     Water Bearer Week 13 
+Standard: Wednesday December 16, 2026    |   Perpetual: Stellae   Water Bearer Week 13 
+Standard: Thursday  December 17, 2026    |   Perpetual: Terrae    Water Bearer Week 13 
+Standard: Friday    December 18, 2026    |   Perpetual: Aquae     Water Bearer Week 13 
+Standard: Saturday  December 19, 2026    |   Perpetual: Aeris     Water Bearer Week 13 
+Standard: Sunday    December 20, 2026    |   Perpetual: Ignis     Water Bearer Week 13 
+Standard: Monday    December 21, 2026    |   Perpetual: --- Year Day (December Solstice)   ---
+Standard: Tuesday   December 22, 2026    |   Perpetual: Solis     Hunter      Week 1  
+Standard: Wednesday December 23, 2026    |   Perpetual: Lunae     Hunter      Week 1  
+Standard: Thursday  December 24, 2026    |   Perpetual: Stellae   Hunter      Week 1  
+Standard: Friday    December 25, 2026    |   Perpetual: Terrae    Hunter      Week 1  
+Standard: Saturday  December 26, 2026    |   Perpetual: Aquae     Hunter      Week 1  
+Standard: Sunday    December 27, 2026    |   Perpetual: Aeris     Hunter      Week 1  
+Standard: Monday    December 28, 2026    |   Perpetual: Ignis     Hunter      Week 1  
+Standard: Tuesday   December 29, 2026    |   Perpetual: Solis     Hunter      Week 2  
+Standard: Wednesday December 30, 2026    |   Perpetual: Lunae     Hunter      Week 2  
+Standard: Thursday  December 31, 2026    |   Perpetual: Stellae   Hunter      Week 2  
+Standard: Friday    January 01, 2027     |   Perpetual: Terrae    Hunter      Week 2  
+Standard: Saturday  January 02, 2027     |   Perpetual: Aquae     Hunter      Week 2  
+Standard: Sunday    January 03, 2027     |   Perpetual: Aeris     Hunter      Week 2  
+Standard: Monday    January 04, 2027     |   Perpetual: Ignis     Hunter      Week 2  
+Standard: Tuesday   January 05, 2027     |   Perpetual: Solis     Hunter      Week 3  
+Standard: Wednesday January 06, 2027     |   Perpetual: Lunae     Hunter      Week 3  
+Standard: Thursday  January 07, 2027     |   Perpetual: Stellae   Hunter      Week 3  
+Standard: Friday    January 08, 2027     |   Perpetual: Terrae    Hunter      Week 3  
+Standard: Saturday  January 09, 2027     |   Perpetual: Aquae     Hunter      Week 3  
+Standard: Sunday    January 10, 2027     |   Perpetual: Aeris     Hunter      Week 3  
+Standard: Monday    January 11, 2027     |   Perpetual: Ignis     Hunter      Week 3  
+Standard: Tuesday   January 12, 2027     |   Perpetual: Solis     Hunter      Week 4  
+Standard: Wednesday January 13, 2027     |   Perpetual: Lunae     Hunter      Week 4  
+Standard: Thursday  January 14, 2027     |   Perpetual: Stellae   Hunter      Week 4  
+Standard: Friday    January 15, 2027     |   Perpetual: Terrae    Hunter      Week 4  
+Standard: Saturday  January 16, 2027     |   Perpetual: Aquae     Hunter      Week 4  
+Standard: Sunday    January 17, 2027     |   Perpetual: Aeris     Hunter      Week 4  
+Standard: Monday    January 18, 2027     |   Perpetual: Ignis     Hunter      Week 4  
+Standard: Tuesday   January 19, 2027     |   Perpetual: Solis     Hunter      Week 5  
+Standard: Wednesday January 20, 2027     |   Perpetual: Lunae     Hunter      Week 5  
+Standard: Thursday  January 21, 2027     |   Perpetual: Stellae   Hunter      Week 5  
+Standard: Friday    January 22, 2027     |   Perpetual: Terrae    Hunter      Week 5  
+Standard: Saturday  January 23, 2027     |   Perpetual: Aquae     Hunter      Week 5  
+Standard: Sunday    January 24, 2027     |   Perpetual: Aeris     Hunter      Week 5  
+Standard: Monday    January 25, 2027     |   Perpetual: Ignis     Hunter      Week 5  
+Standard: Tuesday   January 26, 2027     |   Perpetual: Solis     Hunter      Week 6  
+Standard: Wednesday January 27, 2027     |   Perpetual: Lunae     Hunter      Week 6  
+Standard: Thursday  January 28, 2027     |   Perpetual: Stellae   Hunter      Week 6  
+Standard: Friday    January 29, 2027     |   Perpetual: Terrae    Hunter      Week 6  
+Standard: Saturday  January 30, 2027     |   Perpetual: Aquae     Hunter      Week 6  
+Standard: Sunday    January 31, 2027     |   Perpetual: Aeris     Hunter      Week 6  
+Standard: Monday    February 01, 2027    |   Perpetual: Ignis     Hunter      Week 6  
+Standard: Tuesday   February 02, 2027    |   Perpetual: Solis     Hunter      Week 7  
+Standard: Wednesday February 03, 2027    |   Perpetual: Lunae     Hunter      Week 7  
+Standard: Thursday  February 04, 2027    |   Perpetual: Stellae   Hunter      Week 7  
+Standard: Friday    February 05, 2027    |   Perpetual: Terrae    Hunter      Week 7  
+Standard: Saturday  February 06, 2027    |   Perpetual: Aquae     Hunter      Week 7  
+Standard: Sunday    February 07, 2027    |   Perpetual: Aeris     Hunter      Week 7  
+Standard: Monday    February 08, 2027    |   Perpetual: Ignis     Hunter      Week 7  
+Standard: Tuesday   February 09, 2027    |   Perpetual: Solis     Hunter      Week 8  
+Standard: Wednesday February 10, 2027    |   Perpetual: Lunae     Hunter      Week 8  
+Standard: Thursday  February 11, 2027    |   Perpetual: Stellae   Hunter      Week 8  
+Standard: Friday    February 12, 2027    |   Perpetual: Terrae    Hunter      Week 8  
+Standard: Saturday  February 13, 2027    |   Perpetual: Aquae     Hunter      Week 8  
+Standard: Sunday    February 14, 2027    |   Perpetual: Aeris     Hunter      Week 8  
+Standard: Monday    February 15, 2027    |   Perpetual: Ignis     Hunter      Week 8  
+Standard: Tuesday   February 16, 2027    |   Perpetual: Solis     Hunter      Week 9  
+Standard: Wednesday February 17, 2027    |   Perpetual: Lunae     Hunter      Week 9  
+Standard: Thursday  February 18, 2027    |   Perpetual: Stellae   Hunter      Week 9  
+Standard: Friday    February 19, 2027    |   Perpetual: Terrae    Hunter      Week 9  
+Standard: Saturday  February 20, 2027    |   Perpetual: Aquae     Hunter      Week 9  
+Standard: Sunday    February 21, 2027    |   Perpetual: Aeris     Hunter      Week 9  
+Standard: Monday    February 22, 2027    |   Perpetual: Ignis     Hunter      Week 9  
+Standard: Tuesday   February 23, 2027    |   Perpetual: Solis     Hunter      Week 10 
+Standard: Wednesday February 24, 2027    |   Perpetual: Lunae     Hunter      Week 10 
+Standard: Thursday  February 25, 2027    |   Perpetual: Stellae   Hunter      Week 10 
+Standard: Friday    February 26, 2027    |   Perpetual: Terrae    Hunter      Week 10 
+Standard: Saturday  February 27, 2027    |   Perpetual: Aquae     Hunter      Week 10 
+Standard: Sunday    February 28, 2027    |   Perpetual: Aeris     Hunter      Week 10 
+Standard: Monday    March 01, 2027       |   Perpetual: Ignis     Hunter      Week 10 
+Standard: Tuesday   March 02, 2027       |   Perpetual: Solis     Hunter      Week 11 
+Standard: Wednesday March 03, 2027       |   Perpetual: Lunae     Hunter      Week 11 
+Standard: Thursday  March 04, 2027       |   Perpetual: Stellae   Hunter      Week 11 
+Standard: Friday    March 05, 2027       |   Perpetual: Terrae    Hunter      Week 11 
+Standard: Saturday  March 06, 2027       |   Perpetual: Aquae     Hunter      Week 11 
+Standard: Sunday    March 07, 2027       |   Perpetual: Aeris     Hunter      Week 11 
+Standard: Monday    March 08, 2027       |   Perpetual: Ignis     Hunter      Week 11 
+Standard: Tuesday   March 09, 2027       |   Perpetual: Solis     Hunter      Week 12 
+Standard: Wednesday March 10, 2027       |   Perpetual: Lunae     Hunter      Week 12 
+Standard: Thursday  March 11, 2027       |   Perpetual: Stellae   Hunter      Week 12 
+Standard: Friday    March 12, 2027       |   Perpetual: Terrae    Hunter      Week 12 
+Standard: Saturday  March 13, 2027       |   Perpetual: Aquae     Hunter      Week 12 
+Standard: Sunday    March 14, 2027       |   Perpetual: Aeris     Hunter      Week 12 
+Standard: Monday    March 15, 2027       |   Perpetual: Ignis     Hunter      Week 12 
+Standard: Tuesday   March 16, 2027       |   Perpetual: Solis     Hunter      Week 13 
+Standard: Wednesday March 17, 2027       |   Perpetual: Lunae     Hunter      Week 13 
+Standard: Thursday  March 18, 2027       |   Perpetual: Stellae   Hunter      Week 13 
+Standard: Friday    March 19, 2027       |   Perpetual: Terrae    Hunter      Week 13 
+Standard: Saturday  March 20, 2027       |   Perpetual: Aquae     Hunter      Week 13 
+Standard: Sunday    March 21, 2027       |   Perpetual: Aeris     Hunter      Week 13 
+Standard: Monday    March 22, 2027       |   Perpetual: Ignis     Hunter      Week 13 
+Standard: Tuesday   March 23, 2027       |   Perpetual: Solis     Lion        Week 1  
+Standard: Wednesday March 24, 2027       |   Perpetual: Lunae     Lion        Week 1  
+Standard: Thursday  March 25, 2027       |   Perpetual: Stellae   Lion        Week 1  
+Standard: Friday    March 26, 2027       |   Perpetual: Terrae    Lion        Week 1  
+Standard: Saturday  March 27, 2027       |   Perpetual: Aquae     Lion        Week 1  
+Standard: Sunday    March 28, 2027       |   Perpetual: Aeris     Lion        Week 1  
+Standard: Monday    March 29, 2027       |   Perpetual: Ignis     Lion        Week 1  
+Standard: Tuesday   March 30, 2027       |   Perpetual: Solis     Lion        Week 2  
+Standard: Wednesday March 31, 2027       |   Perpetual: Lunae     Lion        Week 2  
+Standard: Thursday  April 01, 2027       |   Perpetual: Stellae   Lion        Week 2  
+Standard: Friday    April 02, 2027       |   Perpetual: Terrae    Lion        Week 2  
+Standard: Saturday  April 03, 2027       |   Perpetual: Aquae     Lion        Week 2  
+Standard: Sunday    April 04, 2027       |   Perpetual: Aeris     Lion        Week 2  
+Standard: Monday    April 05, 2027       |   Perpetual: Ignis     Lion        Week 2  
+Standard: Tuesday   April 06, 2027       |   Perpetual: Solis     Lion        Week 3  
+Standard: Wednesday April 07, 2027       |   Perpetual: Lunae     Lion        Week 3  
+Standard: Thursday  April 08, 2027       |   Perpetual: Stellae   Lion        Week 3  
+Standard: Friday    April 09, 2027       |   Perpetual: Terrae    Lion        Week 3  
+Standard: Saturday  April 10, 2027       |   Perpetual: Aquae     Lion        Week 3  
+Standard: Sunday    April 11, 2027       |   Perpetual: Aeris     Lion        Week 3  
+Standard: Monday    April 12, 2027       |   Perpetual: Ignis     Lion        Week 3  
+Standard: Tuesday   April 13, 2027       |   Perpetual: Solis     Lion        Week 4  
+Standard: Wednesday April 14, 2027       |   Perpetual: Lunae     Lion        Week 4  
+Standard: Thursday  April 15, 2027       |   Perpetual: Stellae   Lion        Week 4  
+Standard: Friday    April 16, 2027       |   Perpetual: Terrae    Lion        Week 4  
+Standard: Saturday  April 17, 2027       |   Perpetual: Aquae     Lion        Week 4  
+Standard: Sunday    April 18, 2027       |   Perpetual: Aeris     Lion        Week 4  
+Standard: Monday    April 19, 2027       |   Perpetual: Ignis     Lion        Week 4  
+Standard: Tuesday   April 20, 2027       |   Perpetual: Solis     Lion        Week 5  
+Standard: Wednesday April 21, 2027       |   Perpetual: Lunae     Lion        Week 5  
+Standard: Thursday  April 22, 2027       |   Perpetual: Stellae   Lion        Week 5  
+Standard: Friday    April 23, 2027       |   Perpetual: Terrae    Lion        Week 5  
+Standard: Saturday  April 24, 2027       |   Perpetual: Aquae     Lion        Week 5  
+Standard: Sunday    April 25, 2027       |   Perpetual: Aeris     Lion        Week 5  
+Standard: Monday    April 26, 2027       |   Perpetual: Ignis     Lion        Week 5  
+Standard: Tuesday   April 27, 2027       |   Perpetual: Solis     Lion        Week 6  
+Standard: Wednesday April 28, 2027       |   Perpetual: Lunae     Lion        Week 6  
+Standard: Thursday  April 29, 2027       |   Perpetual: Stellae   Lion        Week 6  
+Standard: Friday    April 30, 2027       |   Perpetual: Terrae    Lion        Week 6  
+Standard: Saturday  May 01, 2027         |   Perpetual: Aquae     Lion        Week 6  
+Standard: Sunday    May 02, 2027         |   Perpetual: Aeris     Lion        Week 6  
+Standard: Monday    May 03, 2027         |   Perpetual: Ignis     Lion        Week 6  
+Standard: Tuesday   May 04, 2027         |   Perpetual: Solis     Lion        Week 7  
+Standard: Wednesday May 05, 2027         |   Perpetual: Lunae     Lion        Week 7  
+Standard: Thursday  May 06, 2027         |   Perpetual: Stellae   Lion        Week 7  
+Standard: Friday    May 07, 2027         |   Perpetual: Terrae    Lion        Week 7  
+Standard: Saturday  May 08, 2027         |   Perpetual: Aquae     Lion        Week 7  
+Standard: Sunday    May 09, 2027         |   Perpetual: Aeris     Lion        Week 7  
+Standard: Monday    May 10, 2027         |   Perpetual: Ignis     Lion        Week 7  
+Standard: Tuesday   May 11, 2027         |   Perpetual: Solis     Lion        Week 8  
+Standard: Wednesday May 12, 2027         |   Perpetual: Lunae     Lion        Week 8  
+Standard: Thursday  May 13, 2027         |   Perpetual: Stellae   Lion        Week 8  
+Standard: Friday    May 14, 2027         |   Perpetual: Terrae    Lion        Week 8  
+Standard: Saturday  May 15, 2027         |   Perpetual: Aquae     Lion        Week 8  
+Standard: Sunday    May 16, 2027         |   Perpetual: Aeris     Lion        Week 8  
+Standard: Monday    May 17, 2027         |   Perpetual: Ignis     Lion        Week 8  
+Standard: Tuesday   May 18, 2027         |   Perpetual: Solis     Lion        Week 9  
+Standard: Wednesday May 19, 2027         |   Perpetual: Lunae     Lion        Week 9  
+Standard: Thursday  May 20, 2027         |   Perpetual: Stellae   Lion        Week 9  
+Standard: Friday    May 21, 2027         |   Perpetual: Terrae    Lion        Week 9  
+Standard: Saturday  May 22, 2027         |   Perpetual: Aquae     Lion        Week 9  
+Standard: Sunday    May 23, 2027         |   Perpetual: Aeris     Lion        Week 9  
+Standard: Monday    May 24, 2027         |   Perpetual: Ignis     Lion        Week 9  
+Standard: Tuesday   May 25, 2027         |   Perpetual: Solis     Lion        Week 10 
+Standard: Wednesday May 26, 2027         |   Perpetual: Lunae     Lion        Week 10 
+Standard: Thursday  May 27, 2027         |   Perpetual: Stellae   Lion        Week 10 
+Standard: Friday    May 28, 2027         |   Perpetual: Terrae    Lion        Week 10 
+Standard: Saturday  May 29, 2027         |   Perpetual: Aquae     Lion        Week 10 
+Standard: Sunday    May 30, 2027         |   Perpetual: Aeris     Lion        Week 10 
+Standard: Monday    May 31, 2027         |   Perpetual: Ignis     Lion        Week 10 
+Standard: Tuesday   June 01, 2027        |   Perpetual: Solis     Lion        Week 11 
+Standard: Wednesday June 02, 2027        |   Perpetual: Lunae     Lion        Week 11 
+Standard: Thursday  June 03, 2027        |   Perpetual: Stellae   Lion        Week 11 
+Standard: Friday    June 04, 2027        |   Perpetual: Terrae    Lion        Week 11 
+Standard: Saturday  June 05, 2027        |   Perpetual: Aquae     Lion        Week 11 
+Standard: Sunday    June 06, 2027        |   Perpetual: Aeris     Lion        Week 11 
+Standard: Monday    June 07, 2027        |   Perpetual: Ignis     Lion        Week 11 
+Standard: Tuesday   June 08, 2027        |   Perpetual: Solis     Lion        Week 12 
+Standard: Wednesday June 09, 2027        |   Perpetual: Lunae     Lion        Week 12 
+Standard: Thursday  June 10, 2027        |   Perpetual: Stellae   Lion        Week 12 
+Standard: Friday    June 11, 2027        |   Perpetual: Terrae    Lion        Week 12 
+Standard: Saturday  June 12, 2027        |   Perpetual: Aquae     Lion        Week 12 
+Standard: Sunday    June 13, 2027        |   Perpetual: Aeris     Lion        Week 12 
+Standard: Monday    June 14, 2027        |   Perpetual: Ignis     Lion        Week 12 
+Standard: Tuesday   June 15, 2027        |   Perpetual: Solis     Lion        Week 13 
+Standard: Wednesday June 16, 2027        |   Perpetual: Lunae     Lion        Week 13 
+Standard: Thursday  June 17, 2027        |   Perpetual: Stellae   Lion        Week 13 
+Standard: Friday    June 18, 2027        |   Perpetual: Terrae    Lion        Week 13 
+Standard: Saturday  June 19, 2027        |   Perpetual: Aquae     Lion        Week 13 
+Standard: Sunday    June 20, 2027        |   Perpetual: Aeris     Lion        Week 13 
+Standard: Monday    June 21, 2027        |   Perpetual: Ignis     Lion        Week 13 
+Standard: Tuesday   June 22, 2027        |   Perpetual: Solis     Eagle       Week 1  
+Standard: Wednesday June 23, 2027        |   Perpetual: Lunae     Eagle       Week 1  
+Standard: Thursday  June 24, 2027        |   Perpetual: Stellae   Eagle       Week 1  
+Standard: Friday    June 25, 2027        |   Perpetual: Terrae    Eagle       Week 1  
+Standard: Saturday  June 26, 2027        |   Perpetual: Aquae     Eagle       Week 1  
+Standard: Sunday    June 27, 2027        |   Perpetual: Aeris     Eagle       Week 1  
+Standard: Monday    June 28, 2027        |   Perpetual: Ignis     Eagle       Week 1  
+Standard: Tuesday   June 29, 2027        |   Perpetual: Solis     Eagle       Week 2  
+Standard: Wednesday June 30, 2027        |   Perpetual: Lunae     Eagle       Week 2  
+Standard: Thursday  July 01, 2027        |   Perpetual: Stellae   Eagle       Week 2  
+Standard: Friday    July 02, 2027        |   Perpetual: Terrae    Eagle       Week 2  
+Standard: Saturday  July 03, 2027        |   Perpetual: Aquae     Eagle       Week 2  
+Standard: Sunday    July 04, 2027        |   Perpetual: Aeris     Eagle       Week 2  
+Standard: Monday    July 05, 2027        |   Perpetual: Ignis     Eagle       Week 2  
+Standard: Tuesday   July 06, 2027        |   Perpetual: Solis     Eagle       Week 3  
+Standard: Wednesday July 07, 2027        |   Perpetual: Lunae     Eagle       Week 3  
+Standard: Thursday  July 08, 2027        |   Perpetual: Stellae   Eagle       Week 3  
+Standard: Friday    July 09, 2027        |   Perpetual: Terrae    Eagle       Week 3  
+Standard: Saturday  July 10, 2027        |   Perpetual: Aquae     Eagle       Week 3  
+Standard: Sunday    July 11, 2027        |   Perpetual: Aeris     Eagle       Week 3  
+Standard: Monday    July 12, 2027        |   Perpetual: Ignis     Eagle       Week 3  
+Standard: Tuesday   July 13, 2027        |   Perpetual: Solis     Eagle       Week 4  
+Standard: Wednesday July 14, 2027        |   Perpetual: Lunae     Eagle       Week 4  
+Standard: Thursday  July 15, 2027        |   Perpetual: Stellae   Eagle       Week 4  
+Standard: Friday    July 16, 2027        |   Perpetual: Terrae    Eagle       Week 4  
+Standard: Saturday  July 17, 2027        |   Perpetual: Aquae     Eagle       Week 4  
+Standard: Sunday    July 18, 2027        |   Perpetual: Aeris     Eagle       Week 4  
+Standard: Monday    July 19, 2027        |   Perpetual: Ignis     Eagle       Week 4  
+Standard: Tuesday   July 20, 2027        |   Perpetual: Solis     Eagle       Week 5  
+Standard: Wednesday July 21, 2027        |   Perpetual: Lunae     Eagle       Week 5  
+Standard: Thursday  July 22, 2027        |   Perpetual: Stellae   Eagle       Week 5  
+Standard: Friday    July 23, 2027        |   Perpetual: Terrae    Eagle       Week 5  
+Standard: Saturday  July 24, 2027        |   Perpetual: Aquae     Eagle       Week 5  
+Standard: Sunday    July 25, 2027        |   Perpetual: Aeris     Eagle       Week 5  
+Standard: Monday    July 26, 2027        |   Perpetual: Ignis     Eagle       Week 5  
+Standard: Tuesday   July 27, 2027        |   Perpetual: Solis     Eagle       Week 6  
+Standard: Wednesday July 28, 2027        |   Perpetual: Lunae     Eagle       Week 6  
+Standard: Thursday  July 29, 2027        |   Perpetual: Stellae   Eagle       Week 6  
+Standard: Friday    July 30, 2027        |   Perpetual: Terrae    Eagle       Week 6  
+Standard: Saturday  July 31, 2027        |   Perpetual: Aquae     Eagle       Week 6  
+Standard: Sunday    August 01, 2027      |   Perpetual: Aeris     Eagle       Week 6  
+Standard: Monday    August 02, 2027      |   Perpetual: Ignis     Eagle       Week 6  
+Standard: Tuesday   August 03, 2027      |   Perpetual: Solis     Eagle       Week 7  
+Standard: Wednesday August 04, 2027      |   Perpetual: Lunae     Eagle       Week 7  
+Standard: Thursday  August 05, 2027      |   Perpetual: Stellae   Eagle       Week 7  
+Standard: Friday    August 06, 2027      |   Perpetual: Terrae    Eagle       Week 7  
+Standard: Saturday  August 07, 2027      |   Perpetual: Aquae     Eagle       Week 7  
+Standard: Sunday    August 08, 2027      |   Perpetual: Aeris     Eagle       Week 7  
+Standard: Monday    August 09, 2027      |   Perpetual: Ignis     Eagle       Week 7  
+Standard: Tuesday   August 10, 2027      |   Perpetual: Solis     Eagle       Week 8  
+Standard: Wednesday August 11, 2027      |   Perpetual: Lunae     Eagle       Week 8  
+Standard: Thursday  August 12, 2027      |   Perpetual: Stellae   Eagle       Week 8  
+Standard: Friday    August 13, 2027      |   Perpetual: Terrae    Eagle       Week 8  
+Standard: Saturday  August 14, 2027      |   Perpetual: Aquae     Eagle       Week 8  
+Standard: Sunday    August 15, 2027      |   Perpetual: Aeris     Eagle       Week 8  
+Standard: Monday    August 16, 2027      |   Perpetual: Ignis     Eagle       Week 8  
+Standard: Tuesday   August 17, 2027      |   Perpetual: Solis     Eagle       Week 9  
+Standard: Wednesday August 18, 2027      |   Perpetual: Lunae     Eagle       Week 9  
+Standard: Thursday  August 19, 2027      |   Perpetual: Stellae   Eagle       Week 9  
+Standard: Friday    August 20, 2027      |   Perpetual: Terrae    Eagle       Week 9  
+Standard: Saturday  August 21, 2027      |   Perpetual: Aquae     Eagle       Week 9  
+Standard: Sunday    August 22, 2027      |   Perpetual: Aeris     Eagle       Week 9  
+Standard: Monday    August 23, 2027      |   Perpetual: Ignis     Eagle       Week 9  
+Standard: Tuesday   August 24, 2027      |   Perpetual: Solis     Eagle       Week 10 
+Standard: Wednesday August 25, 2027      |   Perpetual: Lunae     Eagle       Week 10 
+Standard: Thursday  August 26, 2027      |   Perpetual: Stellae   Eagle       Week 10 
+Standard: Friday    August 27, 2027      |   Perpetual: Terrae    Eagle       Week 10 
+Standard: Saturday  August 28, 2027      |   Perpetual: Aquae     Eagle       Week 10 
+Standard: Sunday    August 29, 2027      |   Perpetual: Aeris     Eagle       Week 10 
+Standard: Monday    August 30, 2027      |   Perpetual: Ignis     Eagle       Week 10 
+Standard: Tuesday   August 31, 2027      |   Perpetual: Solis     Eagle       Week 11 
+Standard: Wednesday September 01, 2027   |   Perpetual: Lunae     Eagle       Week 11 
+Standard: Thursday  September 02, 2027   |   Perpetual: Stellae   Eagle       Week 11 
+Standard: Friday    September 03, 2027   |   Perpetual: Terrae    Eagle       Week 11 
+Standard: Saturday  September 04, 2027   |   Perpetual: Aquae     Eagle       Week 11 
+Standard: Sunday    September 05, 2027   |   Perpetual: Aeris     Eagle       Week 11 
+Standard: Monday    September 06, 2027   |   Perpetual: Ignis     Eagle       Week 11 
+Standard: Tuesday   September 07, 2027   |   Perpetual: Solis     Eagle       Week 12 
+Standard: Wednesday September 08, 2027   |   Perpetual: Lunae     Eagle       Week 12 
+Standard: Thursday  September 09, 2027   |   Perpetual: Stellae   Eagle       Week 12 
+Standard: Friday    September 10, 2027   |   Perpetual: Terrae    Eagle       Week 12 
+Standard: Saturday  September 11, 2027   |   Perpetual: Aquae     Eagle       Week 12 
+Standard: Sunday    September 12, 2027   |   Perpetual: Aeris     Eagle       Week 12 
+Standard: Monday    September 13, 2027   |   Perpetual: Ignis     Eagle       Week 12 
+Standard: Tuesday   September 14, 2027   |   Perpetual: Solis     Eagle       Week 13 
+Standard: Wednesday September 15, 2027   |   Perpetual: Lunae     Eagle       Week 13 
+Standard: Thursday  September 16, 2027   |   Perpetual: Stellae   Eagle       Week 13 
+Standard: Friday    September 17, 2027   |   Perpetual: Terrae    Eagle       Week 13 
+Standard: Saturday  September 18, 2027   |   Perpetual: Aquae     Eagle       Week 13 
+Standard: Sunday    September 19, 2027   |   Perpetual: Aeris     Eagle       Week 13 
+Standard: Monday    September 20, 2027   |   Perpetual: Ignis     Eagle       Week 13 
+Standard: Tuesday   September 21, 2027   |   Perpetual: Solis     Water Bearer Week 1  
+Standard: Wednesday September 22, 2027   |   Perpetual: Lunae     Water Bearer Week 1  
+Standard: Thursday  September 23, 2027   |   Perpetual: Stellae   Water Bearer Week 1  
+Standard: Friday    September 24, 2027   |   Perpetual: Terrae    Water Bearer Week 1  
+Standard: Saturday  September 25, 2027   |   Perpetual: Aquae     Water Bearer Week 1  
+Standard: Sunday    September 26, 2027   |   Perpetual: Aeris     Water Bearer Week 1  
+Standard: Monday    September 27, 2027   |   Perpetual: Ignis     Water Bearer Week 1  
+Standard: Tuesday   September 28, 2027   |   Perpetual: Solis     Water Bearer Week 2  
+Standard: Wednesday September 29, 2027   |   Perpetual: Lunae     Water Bearer Week 2  
+Standard: Thursday  September 30, 2027   |   Perpetual: Stellae   Water Bearer Week 2  
+Standard: Friday    October 01, 2027     |   Perpetual: Terrae    Water Bearer Week 2  
+Standard: Saturday  October 02, 2027     |   Perpetual: Aquae     Water Bearer Week 2  
+Standard: Sunday    October 03, 2027     |   Perpetual: Aeris     Water Bearer Week 2  
+Standard: Monday    October 04, 2027     |   Perpetual: Ignis     Water Bearer Week 2  
+Standard: Tuesday   October 05, 2027     |   Perpetual: Solis     Water Bearer Week 3  
+Standard: Wednesday October 06, 2027     |   Perpetual: Lunae     Water Bearer Week 3  
+Standard: Thursday  October 07, 2027     |   Perpetual: Stellae   Water Bearer Week 3  
+Standard: Friday    October 08, 2027     |   Perpetual: Terrae    Water Bearer Week 3  
+Standard: Saturday  October 09, 2027     |   Perpetual: Aquae     Water Bearer Week 3  
+Standard: Sunday    October 10, 2027     |   Perpetual: Aeris     Water Bearer Week 3  
+Standard: Monday    October 11, 2027     |   Perpetual: Ignis     Water Bearer Week 3  
+Standard: Tuesday   October 12, 2027     |   Perpetual: Solis     Water Bearer Week 4  
+Standard: Wednesday October 13, 2027     |   Perpetual: Lunae     Water Bearer Week 4  
+Standard: Thursday  October 14, 2027     |   Perpetual: Stellae   Water Bearer Week 4  
+Standard: Friday    October 15, 2027     |   Perpetual: Terrae    Water Bearer Week 4  
+Standard: Saturday  October 16, 2027     |   Perpetual: Aquae     Water Bearer Week 4  
+Standard: Sunday    October 17, 2027     |   Perpetual: Aeris     Water Bearer Week 4  
+Standard: Monday    October 18, 2027     |   Perpetual: Ignis     Water Bearer Week 4  
+Standard: Tuesday   October 19, 2027     |   Perpetual: Solis     Water Bearer Week 5  
+Standard: Wednesday October 20, 2027     |   Perpetual: Lunae     Water Bearer Week 5  
+Standard: Thursday  October 21, 2027     |   Perpetual: Stellae   Water Bearer Week 5  
+Standard: Friday    October 22, 2027     |   Perpetual: Terrae    Water Bearer Week 5  
+Standard: Saturday  October 23, 2027     |   Perpetual: Aquae     Water Bearer Week 5  
+Standard: Sunday    October 24, 2027     |   Perpetual: Aeris     Water Bearer Week 5  
+Standard: Monday    October 25, 2027     |   Perpetual: Ignis     Water Bearer Week 5  
+Standard: Tuesday   October 26, 2027     |   Perpetual: Solis     Water Bearer Week 6  
+Standard: Wednesday October 27, 2027     |   Perpetual: Lunae     Water Bearer Week 6  
+Standard: Thursday  October 28, 2027     |   Perpetual: Stellae   Water Bearer Week 6  
+Standard: Friday    October 29, 2027     |   Perpetual: Terrae    Water Bearer Week 6  
+Standard: Saturday  October 30, 2027     |   Perpetual: Aquae     Water Bearer Week 6  
+Standard: Sunday    October 31, 2027     |   Perpetual: Aeris     Water Bearer Week 6  
+Standard: Monday    November 01, 2027    |   Perpetual: Ignis     Water Bearer Week 6  
+Standard: Tuesday   November 02, 2027    |   Perpetual: Solis     Water Bearer Week 7  
+Standard: Wednesday November 03, 2027    |   Perpetual: Lunae     Water Bearer Week 7  
+Standard: Thursday  November 04, 2027    |   Perpetual: Stellae   Water Bearer Week 7  
+Standard: Friday    November 05, 2027    |   Perpetual: Terrae    Water Bearer Week 7  
+Standard: Saturday  November 06, 2027    |   Perpetual: Aquae     Water Bearer Week 7  
+Standard: Sunday    November 07, 2027    |   Perpetual: Aeris     Water Bearer Week 7  
+Standard: Monday    November 08, 2027    |   Perpetual: Ignis     Water Bearer Week 7  
+Standard: Tuesday   November 09, 2027    |   Perpetual: Solis     Water Bearer Week 8  
+Standard: Wednesday November 10, 2027    |   Perpetual: Lunae     Water Bearer Week 8  
+Standard: Thursday  November 11, 2027    |   Perpetual: Stellae   Water Bearer Week 8  
+Standard: Friday    November 12, 2027    |   Perpetual: Terrae    Water Bearer Week 8  
+Standard: Saturday  November 13, 2027    |   Perpetual: Aquae     Water Bearer Week 8  
+Standard: Sunday    November 14, 2027    |   Perpetual: Aeris     Water Bearer Week 8  
+Standard: Monday    November 15, 2027    |   Perpetual: Ignis     Water Bearer Week 8  
+Standard: Tuesday   November 16, 2027    |   Perpetual: Solis     Water Bearer Week 9  
+Standard: Wednesday November 17, 2027    |   Perpetual: Lunae     Water Bearer Week 9  
+Standard: Thursday  November 18, 2027    |   Perpetual: Stellae   Water Bearer Week 9  
+Standard: Friday    November 19, 2027    |   Perpetual: Terrae    Water Bearer Week 9  
+Standard: Saturday  November 20, 2027    |   Perpetual: Aquae     Water Bearer Week 9  
+Standard: Sunday    November 21, 2027    |   Perpetual: Aeris     Water Bearer Week 9  
+Standard: Monday    November 22, 2027    |   Perpetual: Ignis     Water Bearer Week 9  
+Standard: Tuesday   November 23, 2027    |   Perpetual: Solis     Water Bearer Week 10 
+Standard: Wednesday November 24, 2027    |   Perpetual: Lunae     Water Bearer Week 10 
+Standard: Thursday  November 25, 2027    |   Perpetual: Stellae   Water Bearer Week 10 
+Standard: Friday    November 26, 2027    |   Perpetual: Terrae    Water Bearer Week 10 
+Standard: Saturday  November 27, 2027    |   Perpetual: Aquae     Water Bearer Week 10 
+Standard: Sunday    November 28, 2027    |   Perpetual: Aeris     Water Bearer Week 10 
+Standard: Monday    November 29, 2027    |   Perpetual: Ignis     Water Bearer Week 10 
+Standard: Tuesday   November 30, 2027    |   Perpetual: Solis     Water Bearer Week 11 
+Standard: Wednesday December 01, 2027    |   Perpetual: Lunae     Water Bearer Week 11 
+Standard: Thursday  December 02, 2027    |   Perpetual: Stellae   Water Bearer Week 11 
+Standard: Friday    December 03, 2027    |   Perpetual: Terrae    Water Bearer Week 11 
+Standard: Saturday  December 04, 2027    |   Perpetual: Aquae     Water Bearer Week 11 
+Standard: Sunday    December 05, 2027    |   Perpetual: Aeris     Water Bearer Week 11 
+Standard: Monday    December 06, 2027    |   Perpetual: Ignis     Water Bearer Week 11 
+Standard: Tuesday   December 07, 2027    |   Perpetual: Solis     Water Bearer Week 12 
+Standard: Wednesday December 08, 2027    |   Perpetual: Lunae     Water Bearer Week 12 
+Standard: Thursday  December 09, 2027    |   Perpetual: Stellae   Water Bearer Week 12 
+Standard: Friday    December 10, 2027    |   Perpetual: Terrae    Water Bearer Week 12 
+Standard: Saturday  December 11, 2027    |   Perpetual: Aquae     Water Bearer Week 12 
+Standard: Sunday    December 12, 2027    |   Perpetual: Aeris     Water Bearer Week 12 
+Standard: Monday    December 13, 2027    |   Perpetual: Ignis     Water Bearer Week 12 
+Standard: Tuesday   December 14, 2027    |   Perpetual: Solis     Water Bearer Week 13 
+Standard: Wednesday December 15, 2027    |   Perpetual: Lunae     Water Bearer Week 13 
+Standard: Thursday  December 16, 2027    |   Perpetual: Stellae   Water Bearer Week 13 
+Standard: Friday    December 17, 2027    |   Perpetual: Terrae    Water Bearer Week 13 
+Standard: Saturday  December 18, 2027    |   Perpetual: Aquae     Water Bearer Week 13 
+Standard: Sunday    December 19, 2027    |   Perpetual: Aeris     Water Bearer Week 13 
+Standard: Monday    December 20, 2027    |   Perpetual: Ignis     Water Bearer Week 13 
+Standard: Tuesday   December 21, 2027    |   Perpetual: --- Year Day (December Solstice)   ---
+Standard: Wednesday December 22, 2027    |   Perpetual: Solis     Hunter      Week 1  
+Standard: Thursday  December 23, 2027    |   Perpetual: Lunae     Hunter      Week 1  
+Standard: Friday    December 24, 2027    |   Perpetual: Stellae   Hunter      Week 1  
+Standard: Saturday  December 25, 2027    |   Perpetual: Terrae    Hunter      Week 1  
+Standard: Sunday    December 26, 2027    |   Perpetual: Aquae     Hunter      Week 1  
+Standard: Monday    December 27, 2027    |   Perpetual: Aeris     Hunter      Week 1  
+Standard: Tuesday   December 28, 2027    |   Perpetual: Ignis     Hunter      Week 1  
+Standard: Wednesday December 29, 2027    |   Perpetual: Solis     Hunter      Week 2  
+Standard: Thursday  December 30, 2027    |   Perpetual: Lunae     Hunter      Week 2  
+Standard: Friday    December 31, 2027    |   Perpetual: Stellae   Hunter      Week 2  
+Standard: Saturday  January 01, 2028     |   Perpetual: Terrae    Hunter      Week 2  
+Standard: Sunday    January 02, 2028     |   Perpetual: Aquae     Hunter      Week 2  
+Standard: Monday    January 03, 2028     |   Perpetual: Aeris     Hunter      Week 2  
+Standard: Tuesday   January 04, 2028     |   Perpetual: Ignis     Hunter      Week 2  
+Standard: Wednesday January 05, 2028     |   Perpetual: Solis     Hunter      Week 3  
+Standard: Thursday  January 06, 2028     |   Perpetual: Lunae     Hunter      Week 3  
+Standard: Friday    January 07, 2028     |   Perpetual: Stellae   Hunter      Week 3  
+Standard: Saturday  January 08, 2028     |   Perpetual: Terrae    Hunter      Week 3  
+Standard: Sunday    January 09, 2028     |   Perpetual: Aquae     Hunter      Week 3  
+Standard: Monday    January 10, 2028     |   Perpetual: Aeris     Hunter      Week 3  
+Standard: Tuesday   January 11, 2028     |   Perpetual: Ignis     Hunter      Week 3  
+Standard: Wednesday January 12, 2028     |   Perpetual: Solis     Hunter      Week 4  
+Standard: Thursday  January 13, 2028     |   Perpetual: Lunae     Hunter      Week 4  
+Standard: Friday    January 14, 2028     |   Perpetual: Stellae   Hunter      Week 4  
+Standard: Saturday  January 15, 2028     |   Perpetual: Terrae    Hunter      Week 4  
+Standard: Sunday    January 16, 2028     |   Perpetual: Aquae     Hunter      Week 4  
+Standard: Monday    January 17, 2028     |   Perpetual: Aeris     Hunter      Week 4  
+Standard: Tuesday   January 18, 2028     |   Perpetual: Ignis     Hunter      Week 4  
+Standard: Wednesday January 19, 2028     |   Perpetual: Solis     Hunter      Week 5  
+Standard: Thursday  January 20, 2028     |   Perpetual: Lunae     Hunter      Week 5  
+Standard: Friday    January 21, 2028     |   Perpetual: Stellae   Hunter      Week 5  
+Standard: Saturday  January 22, 2028     |   Perpetual: Terrae    Hunter      Week 5  
+Standard: Sunday    January 23, 2028     |   Perpetual: Aquae     Hunter      Week 5  
+Standard: Monday    January 24, 2028     |   Perpetual: Aeris     Hunter      Week 5  
+Standard: Tuesday   January 25, 2028     |   Perpetual: Ignis     Hunter      Week 5  
+Standard: Wednesday January 26, 2028     |   Perpetual: Solis     Hunter      Week 6  
+Standard: Thursday  January 27, 2028     |   Perpetual: Lunae     Hunter      Week 6  
+Standard: Friday    January 28, 2028     |   Perpetual: Stellae   Hunter      Week 6  
+Standard: Saturday  January 29, 2028     |   Perpetual: Terrae    Hunter      Week 6  
+Standard: Sunday    January 30, 2028     |   Perpetual: Aquae     Hunter      Week 6  
+Standard: Monday    January 31, 2028     |   Perpetual: Aeris     Hunter      Week 6  
+Standard: Tuesday   February 01, 2028    |   Perpetual: Ignis     Hunter      Week 6  
+Standard: Wednesday February 02, 2028    |   Perpetual: Solis     Hunter      Week 7  
+Standard: Thursday  February 03, 2028    |   Perpetual: Lunae     Hunter      Week 7  
+Standard: Friday    February 04, 2028    |   Perpetual: Stellae   Hunter      Week 7  
+Standard: Saturday  February 05, 2028    |   Perpetual: Terrae    Hunter      Week 7  
+Standard: Sunday    February 06, 2028    |   Perpetual: Aquae     Hunter      Week 7  
+Standard: Monday    February 07, 2028    |   Perpetual: Aeris     Hunter      Week 7  
+Standard: Tuesday   February 08, 2028    |   Perpetual: Ignis     Hunter      Week 7  
+Standard: Wednesday February 09, 2028    |   Perpetual: Solis     Hunter      Week 8  
+Standard: Thursday  February 10, 2028    |   Perpetual: Lunae     Hunter      Week 8  
+Standard: Friday    February 11, 2028    |   Perpetual: Stellae   Hunter      Week 8  
+Standard: Saturday  February 12, 2028    |   Perpetual: Terrae    Hunter      Week 8  
+Standard: Sunday    February 13, 2028    |   Perpetual: Aquae     Hunter      Week 8  
+Standard: Monday    February 14, 2028    |   Perpetual: Aeris     Hunter      Week 8  
+Standard: Tuesday   February 15, 2028    |   Perpetual: Ignis     Hunter      Week 8  
+Standard: Wednesday February 16, 2028    |   Perpetual: Solis     Hunter      Week 9  
+Standard: Thursday  February 17, 2028    |   Perpetual: Lunae     Hunter      Week 9  
+Standard: Friday    February 18, 2028    |   Perpetual: Stellae   Hunter      Week 9  
+Standard: Saturday  February 19, 2028    |   Perpetual: Terrae    Hunter      Week 9  
+Standard: Sunday    February 20, 2028    |   Perpetual: Aquae     Hunter      Week 9  
+Standard: Monday    February 21, 2028    |   Perpetual: Aeris     Hunter      Week 9  
+Standard: Tuesday   February 22, 2028    |   Perpetual: Ignis     Hunter      Week 9  
+Standard: Wednesday February 23, 2028    |   Perpetual: Solis     Hunter      Week 10 
+Standard: Thursday  February 24, 2028    |   Perpetual: Lunae     Hunter      Week 10 
+Standard: Friday    February 25, 2028    |   Perpetual: Stellae   Hunter      Week 10 
+Standard: Saturday  February 26, 2028    |   Perpetual: Terrae    Hunter      Week 10 
+Standard: Sunday    February 27, 2028    |   Perpetual: Aquae     Hunter      Week 10 
+Standard: Monday    February 28, 2028    |   Perpetual: Aeris     Hunter      Week 10 
+Standard: Tuesday   February 29, 2028    |   Perpetual: Ignis     Hunter      Week 10 
+Standard: Wednesday March 01, 2028       |   Perpetual: Solis     Hunter      Week 11 
+Standard: Thursday  March 02, 2028       |   Perpetual: Lunae     Hunter      Week 11 
+Standard: Friday    March 03, 2028       |   Perpetual: Stellae   Hunter      Week 11 
+Standard: Saturday  March 04, 2028       |   Perpetual: Terrae    Hunter      Week 11 
+Standard: Sunday    March 05, 2028       |   Perpetual: Aquae     Hunter      Week 11 
+Standard: Monday    March 06, 2028       |   Perpetual: Aeris     Hunter      Week 11 
+Standard: Tuesday   March 07, 2028       |   Perpetual: Ignis     Hunter      Week 11 
+Standard: Wednesday March 08, 2028       |   Perpetual: Solis     Hunter      Week 12 
+Standard: Thursday  March 09, 2028       |   Perpetual: Lunae     Hunter      Week 12 
+Standard: Friday    March 10, 2028       |   Perpetual: Stellae   Hunter      Week 12 
+Standard: Saturday  March 11, 2028       |   Perpetual: Terrae    Hunter      Week 12 
+Standard: Sunday    March 12, 2028       |   Perpetual: Aquae     Hunter      Week 12 
+Standard: Monday    March 13, 2028       |   Perpetual: Aeris     Hunter      Week 12 
+Standard: Tuesday   March 14, 2028       |   Perpetual: Ignis     Hunter      Week 12 
+Standard: Wednesday March 15, 2028       |   Perpetual: Solis     Hunter      Week 13 
+Standard: Thursday  March 16, 2028       |   Perpetual: Lunae     Hunter      Week 13 
+Standard: Friday    March 17, 2028       |   Perpetual: Stellae   Hunter      Week 13 
+Standard: Saturday  March 18, 2028       |   Perpetual: Terrae    Hunter      Week 13 
+Standard: Sunday    March 19, 2028       |   Perpetual: Aquae     Hunter      Week 13 
+Standard: Monday    March 20, 2028       |   Perpetual: Aeris     Hunter      Week 13 
+Standard: Tuesday   March 21, 2028       |   Perpetual: Ignis     Hunter      Week 13 
+Standard: Wednesday March 22, 2028       |   Perpetual: Solis     Lion        Week 1  (Equinox)
+Standard: Thursday  March 23, 2028       |   Perpetual: Lunae     Lion        Week 1  
+Standard: Friday    March 24, 2028       |   Perpetual: Stellae   Lion        Week 1  
+Standard: Saturday  March 25, 2028       |   Perpetual: Terrae    Lion        Week 1  
+Standard: Sunday    March 26, 2028       |   Perpetual: Aquae     Lion        Week 1  
+Standard: Monday    March 27, 2028       |   Perpetual: Aeris     Lion        Week 1  
+Standard: Tuesday   March 28, 2028       |   Perpetual: Ignis     Lion        Week 1  
+Standard: Wednesday March 29, 2028       |   Perpetual: Solis     Lion        Week 2  
+Standard: Thursday  March 30, 2028       |   Perpetual: Lunae     Lion        Week 2  
+Standard: Friday    March 31, 2028       |   Perpetual: Stellae   Lion        Week 2  
+Standard: Saturday  April 01, 2028       |   Perpetual: Terrae    Lion        Week 2  
+Standard: Sunday    April 02, 2028       |   Perpetual: Aquae     Lion        Week 2  
+Standard: Monday    April 03, 2028       |   Perpetual: Aeris     Lion        Week 2  
+Standard: Tuesday   April 04, 2028       |   Perpetual: Ignis     Lion        Week 2  
+Standard: Wednesday April 05, 2028       |   Perpetual: Solis     Lion        Week 3  
+Standard: Thursday  April 06, 2028       |   Perpetual: Lunae     Lion        Week 3  
+Standard: Friday    April 07, 2028       |   Perpetual: Stellae   Lion        Week 3  
+Standard: Saturday  April 08, 2028       |   Perpetual: Terrae    Lion        Week 3  
+Standard: Sunday    April 09, 2028       |   Perpetual: Aquae     Lion        Week 3  
+Standard: Monday    April 10, 2028       |   Perpetual: Aeris     Lion        Week 3  
+Standard: Tuesday   April 11, 2028       |   Perpetual: Ignis     Lion        Week 3  
+Standard: Wednesday April 12, 2028       |   Perpetual: Solis     Lion        Week 4  
+Standard: Thursday  April 13, 2028       |   Perpetual: Lunae     Lion        Week 4  
+Standard: Friday    April 14, 2028       |   Perpetual: Stellae   Lion        Week 4  
+Standard: Saturday  April 15, 2028       |   Perpetual: Terrae    Lion        Week 4  
+Standard: Sunday    April 16, 2028       |   Perpetual: Aquae     Lion        Week 4  
+Standard: Monday    April 17, 2028       |   Perpetual: Aeris     Lion        Week 4  
+Standard: Tuesday   April 18, 2028       |   Perpetual: Ignis     Lion        Week 4  
+Standard: Wednesday April 19, 2028       |   Perpetual: Solis     Lion        Week 5  
+Standard: Thursday  April 20, 2028       |   Perpetual: Lunae     Lion        Week 5  
+Standard: Friday    April 21, 2028       |   Perpetual: Stellae   Lion        Week 5  
+Standard: Saturday  April 22, 2028       |   Perpetual: Terrae    Lion        Week 5  
+Standard: Sunday    April 23, 2028       |   Perpetual: Aquae     Lion        Week 5  
+Standard: Monday    April 24, 2028       |   Perpetual: Aeris     Lion        Week 5  
+Standard: Tuesday   April 25, 2028       |   Perpetual: Ignis     Lion        Week 5  
+Standard: Wednesday April 26, 2028       |   Perpetual: Solis     Lion        Week 6  
+Standard: Thursday  April 27, 2028       |   Perpetual: Lunae     Lion        Week 6  
+Standard: Friday    April 28, 2028       |   Perpetual: Stellae   Lion        Week 6  
+Standard: Saturday  April 29, 2028       |   Perpetual: Terrae    Lion        Week 6  
+Standard: Sunday    April 30, 2028       |   Perpetual: Aquae     Lion        Week 6  
+Standard: Monday    May 01, 2028         |   Perpetual: Aeris     Lion        Week 6  
+Standard: Tuesday   May 02, 2028         |   Perpetual: Ignis     Lion        Week 6  
+Standard: Wednesday May 03, 2028         |   Perpetual: Solis     Lion        Week 7  
+Standard: Thursday  May 04, 2028         |   Perpetual: Lunae     Lion        Week 7  
+Standard: Friday    May 05, 2028         |   Perpetual: Stellae   Lion        Week 7  
+Standard: Saturday  May 06, 2028         |   Perpetual: Terrae    Lion        Week 7  
+Standard: Sunday    May 07, 2028         |   Perpetual: Aquae     Lion        Week 7  
+Standard: Monday    May 08, 2028         |   Perpetual: Aeris     Lion        Week 7  
+Standard: Tuesday   May 09, 2028         |   Perpetual: Ignis     Lion        Week 7  
+Standard: Wednesday May 10, 2028         |   Perpetual: Solis     Lion        Week 8  
+Standard: Thursday  May 11, 2028         |   Perpetual: Lunae     Lion        Week 8  
+Standard: Friday    May 12, 2028         |   Perpetual: Stellae   Lion        Week 8  
+Standard: Saturday  May 13, 2028         |   Perpetual: Terrae    Lion        Week 8  
+Standard: Sunday    May 14, 2028         |   Perpetual: Aquae     Lion        Week 8  
+Standard: Monday    May 15, 2028         |   Perpetual: Aeris     Lion        Week 8  
+Standard: Tuesday   May 16, 2028         |   Perpetual: Ignis     Lion        Week 8  
+Standard: Wednesday May 17, 2028         |   Perpetual: Solis     Lion        Week 9  
+Standard: Thursday  May 18, 2028         |   Perpetual: Lunae     Lion        Week 9  
+Standard: Friday    May 19, 2028         |   Perpetual: Stellae   Lion        Week 9  
+Standard: Saturday  May 20, 2028         |   Perpetual: Terrae    Lion        Week 9  
+Standard: Sunday    May 21, 2028         |   Perpetual: Aquae     Lion        Week 9  
+Standard: Monday    May 22, 2028         |   Perpetual: Aeris     Lion        Week 9  
+Standard: Tuesday   May 23, 2028         |   Perpetual: Ignis     Lion        Week 9  
+Standard: Wednesday May 24, 2028         |   Perpetual: Solis     Lion        Week 10 
+Standard: Thursday  May 25, 2028         |   Perpetual: Lunae     Lion        Week 10 
+Standard: Friday    May 26, 2028         |   Perpetual: Stellae   Lion        Week 10 
+Standard: Saturday  May 27, 2028         |   Perpetual: Terrae    Lion        Week 10 
+Standard: Sunday    May 28, 2028         |   Perpetual: Aquae     Lion        Week 10 
+Standard: Monday    May 29, 2028         |   Perpetual: Aeris     Lion        Week 10 
+Standard: Tuesday   May 30, 2028         |   Perpetual: Ignis     Lion        Week 10 
+Standard: Wednesday May 31, 2028         |   Perpetual: Solis     Lion        Week 11 
+Standard: Thursday  June 01, 2028        |   Perpetual: Lunae     Lion        Week 11 
+Standard: Friday    June 02, 2028        |   Perpetual: Stellae   Lion        Week 11 
+Standard: Saturday  June 03, 2028        |   Perpetual: Terrae    Lion        Week 11 
+Standard: Sunday    June 04, 2028        |   Perpetual: Aquae     Lion        Week 11 
+Standard: Monday    June 05, 2028        |   Perpetual: Aeris     Lion        Week 11 
+Standard: Tuesday   June 06, 2028        |   Perpetual: Ignis     Lion        Week 11 
+Standard: Wednesday June 07, 2028        |   Perpetual: Solis     Lion        Week 12 
+Standard: Thursday  June 08, 2028        |   Perpetual: Lunae     Lion        Week 12 
+Standard: Friday    June 09, 2028        |   Perpetual: Stellae   Lion        Week 12 
+Standard: Saturday  June 10, 2028        |   Perpetual: Terrae    Lion        Week 12 
+Standard: Sunday    June 11, 2028        |   Perpetual: Aquae     Lion        Week 12 
+Standard: Monday    June 12, 2028        |   Perpetual: Aeris     Lion        Week 12 
+Standard: Tuesday   June 13, 2028        |   Perpetual: Ignis     Lion        Week 12 
+Standard: Wednesday June 14, 2028        |   Perpetual: Solis     Lion        Week 13 
+Standard: Thursday  June 15, 2028        |   Perpetual: Lunae     Lion        Week 13 
+Standard: Friday    June 16, 2028        |   Perpetual: Stellae   Lion        Week 13 
+Standard: Saturday  June 17, 2028        |   Perpetual: Terrae    Lion        Week 13 
+Standard: Sunday    June 18, 2028        |   Perpetual: Aquae     Lion        Week 13 
+Standard: Monday    June 19, 2028        |   Perpetual: Aeris     Lion        Week 13 
+Standard: Tuesday   June 20, 2028        |   Perpetual: Ignis     Lion        Week 13 
+Standard: Wednesday June 21, 2028        |   Perpetual: --- Leap Day (June Solstice)       ---
+Standard: Thursday  June 22, 2028        |   Perpetual: Solis     Eagle       Week 1  
+Standard: Friday    June 23, 2028        |   Perpetual: Lunae     Eagle       Week 1  
+Standard: Saturday  June 24, 2028        |   Perpetual: Stellae   Eagle       Week 1  
+Standard: Sunday    June 25, 2028        |   Perpetual: Terrae    Eagle       Week 1  
+Standard: Monday    June 26, 2028        |   Perpetual: Aquae     Eagle       Week 1  
+Standard: Tuesday   June 27, 2028        |   Perpetual: Aeris     Eagle       Week 1  
+Standard: Wednesday June 28, 2028        |   Perpetual: Ignis     Eagle       Week 1  
+Standard: Thursday  June 29, 2028        |   Perpetual: Solis     Eagle       Week 2  
+Standard: Friday    June 30, 2028        |   Perpetual: Lunae     Eagle       Week 2  
+Standard: Saturday  July 01, 2028        |   Perpetual: Stellae   Eagle       Week 2  
+Standard: Sunday    July 02, 2028        |   Perpetual: Terrae    Eagle       Week 2  
+Standard: Monday    July 03, 2028        |   Perpetual: Aquae     Eagle       Week 2  
+Standard: Tuesday   July 04, 2028        |   Perpetual: Aeris     Eagle       Week 2  
+Standard: Wednesday July 05, 2028        |   Perpetual: Ignis     Eagle       Week 2  
+Standard: Thursday  July 06, 2028        |   Perpetual: Solis     Eagle       Week 3  
+Standard: Friday    July 07, 2028        |   Perpetual: Lunae     Eagle       Week 3  
+Standard: Saturday  July 08, 2028        |   Perpetual: Stellae   Eagle       Week 3  
+Standard: Sunday    July 09, 2028        |   Perpetual: Terrae    Eagle       Week 3  
+Standard: Monday    July 10, 2028        |   Perpetual: Aquae     Eagle       Week 3  
+Standard: Tuesday   July 11, 2028        |   Perpetual: Aeris     Eagle       Week 3  
+Standard: Wednesday July 12, 2028        |   Perpetual: Ignis     Eagle       Week 3  
+Standard: Thursday  July 13, 2028        |   Perpetual: Solis     Eagle       Week 4  
+Standard: Friday    July 14, 2028        |   Perpetual: Lunae     Eagle       Week 4  
+Standard: Saturday  July 15, 2028        |   Perpetual: Stellae   Eagle       Week 4  
+Standard: Sunday    July 16, 2028        |   Perpetual: Terrae    Eagle       Week 4  
+Standard: Monday    July 17, 2028        |   Perpetual: Aquae     Eagle       Week 4  
+Standard: Tuesday   July 18, 2028        |   Perpetual: Aeris     Eagle       Week 4  
+Standard: Wednesday July 19, 2028        |   Perpetual: Ignis     Eagle       Week 4  
+Standard: Thursday  July 20, 2028        |   Perpetual: Solis     Eagle       Week 5  
+Standard: Friday    July 21, 2028        |   Perpetual: Lunae     Eagle       Week 5  
+Standard: Saturday  July 22, 2028        |   Perpetual: Stellae   Eagle       Week 5  
+Standard: Sunday    July 23, 2028        |   Perpetual: Terrae    Eagle       Week 5  
+Standard: Monday    July 24, 2028        |   Perpetual: Aquae     Eagle       Week 5  
+Standard: Tuesday   July 25, 2028        |   Perpetual: Aeris     Eagle       Week 5  
+Standard: Wednesday July 26, 2028        |   Perpetual: Ignis     Eagle       Week 5  
+Standard: Thursday  July 27, 2028        |   Perpetual: Solis     Eagle       Week 6  
+Standard: Friday    July 28, 2028        |   Perpetual: Lunae     Eagle       Week 6  
+Standard: Saturday  July 29, 2028        |   Perpetual: Stellae   Eagle       Week 6  
+Standard: Sunday    July 30, 2028        |   Perpetual: Terrae    Eagle       Week 6  
+Standard: Monday    July 31, 2028        |   Perpetual: Aquae     Eagle       Week 6  
+Standard: Tuesday   August 01, 2028      |   Perpetual: Aeris     Eagle       Week 6  
+Standard: Wednesday August 02, 2028      |   Perpetual: Ignis     Eagle       Week 6  
+Standard: Thursday  August 03, 2028      |   Perpetual: Solis     Eagle       Week 7  
+Standard: Friday    August 04, 2028      |   Perpetual: Lunae     Eagle       Week 7  
+Standard: Saturday  August 05, 2028      |   Perpetual: Stellae   Eagle       Week 7  
+Standard: Sunday    August 06, 2028      |   Perpetual: Terrae    Eagle       Week 7  
+Standard: Monday    August 07, 2028      |   Perpetual: Aquae     Eagle       Week 7  
+Standard: Tuesday   August 08, 2028      |   Perpetual: Aeris     Eagle       Week 7  
+Standard: Wednesday August 09, 2028      |   Perpetual: Ignis     Eagle       Week 7  
+Standard: Thursday  August 10, 2028      |   Perpetual: Solis     Eagle       Week 8  
+Standard: Friday    August 11, 2028      |   Perpetual: Lunae     Eagle       Week 8  
+Standard: Saturday  August 12, 2028      |   Perpetual: Stellae   Eagle       Week 8  
+Standard: Sunday    August 13, 2028      |   Perpetual: Terrae    Eagle       Week 8  
+Standard: Monday    August 14, 2028      |   Perpetual: Aquae     Eagle       Week 8  
+Standard: Tuesday   August 15, 2028      |   Perpetual: Aeris     Eagle       Week 8  
+Standard: Wednesday August 16, 2028      |   Perpetual: Ignis     Eagle       Week 8  
+Standard: Thursday  August 17, 2028      |   Perpetual: Solis     Eagle       Week 9  
+Standard: Friday    August 18, 2028      |   Perpetual: Lunae     Eagle       Week 9  
+Standard: Saturday  August 19, 2028      |   Perpetual: Stellae   Eagle       Week 9  
+Standard: Sunday    August 20, 2028      |   Perpetual: Terrae    Eagle       Week 9  
+Standard: Monday    August 21, 2028      |   Perpetual: Aquae     Eagle       Week 9  
+Standard: Tuesday   August 22, 2028      |   Perpetual: Aeris     Eagle       Week 9  
+Standard: Wednesday August 23, 2028      |   Perpetual: Ignis     Eagle       Week 9  
+Standard: Thursday  August 24, 2028      |   Perpetual: Solis     Eagle       Week 10 
+Standard: Friday    August 25, 2028      |   Perpetual: Lunae     Eagle       Week 10 
+Standard: Saturday  August 26, 2028      |   Perpetual: Stellae   Eagle       Week 10 
+Standard: Sunday    August 27, 2028      |   Perpetual: Terrae    Eagle       Week 10 
+Standard: Monday    August 28, 2028      |   Perpetual: Aquae     Eagle       Week 10 
+Standard: Tuesday   August 29, 2028      |   Perpetual: Aeris     Eagle       Week 10 
+Standard: Wednesday August 30, 2028      |   Perpetual: Ignis     Eagle       Week 10 
+Standard: Thursday  August 31, 2028      |   Perpetual: Solis     Eagle       Week 11 
+Standard: Friday    September 01, 2028   |   Perpetual: Lunae     Eagle       Week 11 
+Standard: Saturday  September 02, 2028   |   Perpetual: Stellae   Eagle       Week 11 
+Standard: Sunday    September 03, 2028   |   Perpetual: Terrae    Eagle       Week 11 
+Standard: Monday    September 04, 2028   |   Perpetual: Aquae     Eagle       Week 11 
+Standard: Tuesday   September 05, 2028   |   Perpetual: Aeris     Eagle       Week 11 
+Standard: Wednesday September 06, 2028   |   Perpetual: Ignis     Eagle       Week 11 
+Standard: Thursday  September 07, 2028   |   Perpetual: Solis     Eagle       Week 12 
+Standard: Friday    September 08, 2028   |   Perpetual: Lunae     Eagle       Week 12 
+Standard: Saturday  September 09, 2028   |   Perpetual: Stellae   Eagle       Week 12 
+Standard: Sunday    September 10, 2028   |   Perpetual: Terrae    Eagle       Week 12 
+Standard: Monday    September 11, 2028   |   Perpetual: Aquae     Eagle       Week 12 
+Standard: Tuesday   September 12, 2028   |   Perpetual: Aeris     Eagle       Week 12 
+Standard: Wednesday September 13, 2028   |   Perpetual: Ignis     Eagle       Week 12 
+Standard: Thursday  September 14, 2028   |   Perpetual: Solis     Eagle       Week 13 
+Standard: Friday    September 15, 2028   |   Perpetual: Lunae     Eagle       Week 13 
+Standard: Saturday  September 16, 2028   |   Perpetual: Stellae   Eagle       Week 13 
+Standard: Sunday    September 17, 2028   |   Perpetual: Terrae    Eagle       Week 13 
+Standard: Monday    September 18, 2028   |   Perpetual: Aquae     Eagle       Week 13 
+Standard: Tuesday   September 19, 2028   |   Perpetual: Aeris     Eagle       Week 13 
+Standard: Wednesday September 20, 2028   |   Perpetual: Ignis     Eagle       Week 13 
+Standard: Thursday  September 21, 2028   |   Perpetual: Solis     Water Bearer Week 1  
+Standard: Friday    September 22, 2028   |   Perpetual: Lunae     Water Bearer Week 1  
+Standard: Saturday  September 23, 2028   |   Perpetual: Stellae   Water Bearer Week 1  
+Standard: Sunday    September 24, 2028   |   Perpetual: Terrae    Water Bearer Week 1  
+Standard: Monday    September 25, 2028   |   Perpetual: Aquae     Water Bearer Week 1  
+Standard: Tuesday   September 26, 2028   |   Perpetual: Aeris     Water Bearer Week 1  
+Standard: Wednesday September 27, 2028   |   Perpetual: Ignis     Water Bearer Week 1  
+Standard: Thursday  September 28, 2028   |   Perpetual: Solis     Water Bearer Week 2  
+Standard: Friday    September 29, 2028   |   Perpetual: Lunae     Water Bearer Week 2  
+Standard: Saturday  September 30, 2028   |   Perpetual: Stellae   Water Bearer Week 2  
+Standard: Sunday    October 01, 2028     |   Perpetual: Terrae    Water Bearer Week 2  
+Standard: Monday    October 02, 2028     |   Perpetual: Aquae     Water Bearer Week 2  
+Standard: Tuesday   October 03, 2028     |   Perpetual: Aeris     Water Bearer Week 2  
+Standard: Wednesday October 04, 2028     |   Perpetual: Ignis     Water Bearer Week 2  
+Standard: Thursday  October 05, 2028     |   Perpetual: Solis     Water Bearer Week 3  
+Standard: Friday    October 06, 2028     |   Perpetual: Lunae     Water Bearer Week 3  
+Standard: Saturday  October 07, 2028     |   Perpetual: Stellae   Water Bearer Week 3  
+Standard: Sunday    October 08, 2028     |   Perpetual: Terrae    Water Bearer Week 3  
+Standard: Monday    October 09, 2028     |   Perpetual: Aquae     Water Bearer Week 3  
+Standard: Tuesday   October 10, 2028     |   Perpetual: Aeris     Water Bearer Week 3  
+Standard: Wednesday October 11, 2028     |   Perpetual: Ignis     Water Bearer Week 3  
+Standard: Thursday  October 12, 2028     |   Perpetual: Solis     Water Bearer Week 4  
+Standard: Friday    October 13, 2028     |   Perpetual: Lunae     Water Bearer Week 4  
+Standard: Saturday  October 14, 2028     |   Perpetual: Stellae   Water Bearer Week 4  
+Standard: Sunday    October 15, 2028     |   Perpetual: Terrae    Water Bearer Week 4  
+Standard: Monday    October 16, 2028     |   Perpetual: Aquae     Water Bearer Week 4  
+Standard: Tuesday   October 17, 2028     |   Perpetual: Aeris     Water Bearer Week 4  
+Standard: Wednesday October 18, 2028     |   Perpetual: Ignis     Water Bearer Week 4  
+Standard: Thursday  October 19, 2028     |   Perpetual: Solis     Water Bearer Week 5  
+Standard: Friday    October 20, 2028     |   Perpetual: Lunae     Water Bearer Week 5  
+Standard: Saturday  October 21, 2028     |   Perpetual: Stellae   Water Bearer Week 5  
+Standard: Sunday    October 22, 2028     |   Perpetual: Terrae    Water Bearer Week 5  
+Standard: Monday    October 23, 2028     |   Perpetual: Aquae     Water Bearer Week 5  
+Standard: Tuesday   October 24, 2028     |   Perpetual: Aeris     Water Bearer Week 5  
+Standard: Wednesday October 25, 2028     |   Perpetual: Ignis     Water Bearer Week 5  
+Standard: Thursday  October 26, 2028     |   Perpetual: Solis     Water Bearer Week 6  
+Standard: Friday    October 27, 2028     |   Perpetual: Lunae     Water Bearer Week 6  
+Standard: Saturday  October 28, 2028     |   Perpetual: Stellae   Water Bearer Week 6  
+Standard: Sunday    October 29, 2028     |   Perpetual: Terrae    Water Bearer Week 6  
+Standard: Monday    October 30, 2028     |   Perpetual: Aquae     Water Bearer Week 6  
+Standard: Tuesday   October 31, 2028     |   Perpetual: Aeris     Water Bearer Week 6  
+Standard: Wednesday November 01, 2028    |   Perpetual: Ignis     Water Bearer Week 6  
+Standard: Thursday  November 02, 2028    |   Perpetual: Solis     Water Bearer Week 7  
+Standard: Friday    November 03, 2028    |   Perpetual: Lunae     Water Bearer Week 7  
+Standard: Saturday  November 04, 2028    |   Perpetual: Stellae   Water Bearer Week 7  
+Standard: Sunday    November 05, 2028    |   Perpetual: Terrae    Water Bearer Week 7  
+Standard: Monday    November 06, 2028    |   Perpetual: Aquae     Water Bearer Week 7  
+Standard: Tuesday   November 07, 2028    |   Perpetual: Aeris     Water Bearer Week 7  
+Standard: Wednesday November 08, 2028    |   Perpetual: Ignis     Water Bearer Week 7  
+Standard: Thursday  November 09, 2028    |   Perpetual: Solis     Water Bearer Week 8  
+Standard: Friday    November 10, 2028    |   Perpetual: Lunae     Water Bearer Week 8  
+Standard: Saturday  November 11, 2028    |   Perpetual: Stellae   Water Bearer Week 8  
+Standard: Sunday    November 12, 2028    |   Perpetual: Terrae    Water Bearer Week 8  
+Standard: Monday    November 13, 2028    |   Perpetual: Aquae     Water Bearer Week 8  
+Standard: Tuesday   November 14, 2028    |   Perpetual: Aeris     Water Bearer Week 8  
+Standard: Wednesday November 15, 2028    |   Perpetual: Ignis     Water Bearer Week 8  
+Standard: Thursday  November 16, 2028    |   Perpetual: Solis     Water Bearer Week 9  
+Standard: Friday    November 17, 2028    |   Perpetual: Lunae     Water Bearer Week 9  
+Standard: Saturday  November 18, 2028    |   Perpetual: Stellae   Water Bearer Week 9  
+Standard: Sunday    November 19, 2028    |   Perpetual: Terrae    Water Bearer Week 9  
+Standard: Monday    November 20, 2028    |   Perpetual: Aquae     Water Bearer Week 9  
+Standard: Tuesday   November 21, 2028    |   Perpetual: Aeris     Water Bearer Week 9  
+Standard: Wednesday November 22, 2028    |   Perpetual: Ignis     Water Bearer Week 9  
+Standard: Thursday  November 23, 2028    |   Perpetual: Solis     Water Bearer Week 10 
+Standard: Friday    November 24, 2028    |   Perpetual: Lunae     Water Bearer Week 10 
+Standard: Saturday  November 25, 2028    |   Perpetual: Stellae   Water Bearer Week 10 
+Standard: Sunday    November 26, 2028    |   Perpetual: Terrae    Water Bearer Week 10 
+Standard: Monday    November 27, 2028    |   Perpetual: Aquae     Water Bearer Week 10 
+Standard: Tuesday   November 28, 2028    |   Perpetual: Aeris     Water Bearer Week 10 
+Standard: Wednesday November 29, 2028    |   Perpetual: Ignis     Water Bearer Week 10 
+Standard: Thursday  November 30, 2028    |   Perpetual: Solis     Water Bearer Week 11 
+Standard: Friday    December 01, 2028    |   Perpetual: Lunae     Water Bearer Week 11 
+Standard: Saturday  December 02, 2028    |   Perpetual: Stellae   Water Bearer Week 11 
+Standard: Sunday    December 03, 2028    |   Perpetual: Terrae    Water Bearer Week 11 
+Standard: Monday    December 04, 2028    |   Perpetual: Aquae     Water Bearer Week 11 
+Standard: Tuesday   December 05, 2028    |   Perpetual: Aeris     Water Bearer Week 11 
+Standard: Wednesday December 06, 2028    |   Perpetual: Ignis     Water Bearer Week 11 
+Standard: Thursday  December 07, 2028    |   Perpetual: Solis     Water Bearer Week 12 
+Standard: Friday    December 08, 2028    |   Perpetual: Lunae     Water Bearer Week 12 
+Standard: Saturday  December 09, 2028    |   Perpetual: Stellae   Water Bearer Week 12 
+Standard: Sunday    December 10, 2028    |   Perpetual: Terrae    Water Bearer Week 12 
+Standard: Monday    December 11, 2028    |   Perpetual: Aquae     Water Bearer Week 12 
+Standard: Tuesday   December 12, 2028    |   Perpetual: Aeris     Water Bearer Week 12 
+Standard: Wednesday December 13, 2028    |   Perpetual: Ignis     Water Bearer Week 12 
+Standard: Thursday  December 14, 2028    |   Perpetual: Solis     Water Bearer Week 13 
+Standard: Friday    December 15, 2028    |   Perpetual: Lunae     Water Bearer Week 13 
+Standard: Saturday  December 16, 2028    |   Perpetual: Stellae   Water Bearer Week 13 
+Standard: Sunday    December 17, 2028    |   Perpetual: Terrae    Water Bearer Week 13 
+Standard: Monday    December 18, 2028    |   Perpetual: Aquae     Water Bearer Week 13 
+Standard: Tuesday   December 19, 2028    |   Perpetual: Aeris     Water Bearer Week 13 
+Standard: Wednesday December 20, 2028    |   Perpetual: Ignis     Water Bearer Week 13 
+Standard: Thursday  December 21, 2028    |   Perpetual: --- Year Day (December Solstice)   ---
+Standard: Friday    December 22, 2028    |   Perpetual: Solis     Hunter      Week 1  
+Standard: Saturday  December 23, 2028    |   Perpetual: Lunae     Hunter      Week 1  
+Standard: Sunday    December 24, 2028    |   Perpetual: Stellae   Hunter      Week 1  
+Standard: Monday    December 25, 2028    |   Perpetual: Terrae    Hunter      Week 1  
+Standard: Tuesday   December 26, 2028    |   Perpetual: Aquae     Hunter      Week 1  
+Standard: Wednesday December 27, 2028    |   Perpetual: Aeris     Hunter      Week 1  
+Standard: Thursday  December 28, 2028    |   Perpetual: Ignis     Hunter      Week 1  
+Standard: Friday    December 29, 2028    |   Perpetual: Solis     Hunter      Week 2  
+Standard: Saturday  December 30, 2028    |   Perpetual: Lunae     Hunter      Week 2  
+Standard: Sunday    December 31, 2028    |   Perpetual: Stellae   Hunter      Week 2  
+Standard: Monday    January 01, 2029     |   Perpetual: Terrae    Hunter      Week 2  
+Standard: Tuesday   January 02, 2029     |   Perpetual: Aquae     Hunter      Week 2  
+Standard: Wednesday January 03, 2029     |   Perpetual: Aeris     Hunter      Week 2  
+Standard: Thursday  January 04, 2029     |   Perpetual: Ignis     Hunter      Week 2  
+Standard: Friday    January 05, 2029     |   Perpetual: Solis     Hunter      Week 3  
+Standard: Saturday  January 06, 2029     |   Perpetual: Lunae     Hunter      Week 3  
+Standard: Sunday    January 07, 2029     |   Perpetual: Stellae   Hunter      Week 3  
+Standard: Monday    January 08, 2029     |   Perpetual: Terrae    Hunter      Week 3  
+Standard: Tuesday   January 09, 2029     |   Perpetual: Aquae     Hunter      Week 3  
+Standard: Wednesday January 10, 2029     |   Perpetual: Aeris     Hunter      Week 3  
+Standard: Thursday  January 11, 2029     |   Perpetual: Ignis     Hunter      Week 3  
+Standard: Friday    January 12, 2029     |   Perpetual: Solis     Hunter      Week 4  
+Standard: Saturday  January 13, 2029     |   Perpetual: Lunae     Hunter      Week 4  
+Standard: Sunday    January 14, 2029     |   Perpetual: Stellae   Hunter      Week 4  
+Standard: Monday    January 15, 2029     |   Perpetual: Terrae    Hunter      Week 4  
+Standard: Tuesday   January 16, 2029     |   Perpetual: Aquae     Hunter      Week 4  
+Standard: Wednesday January 17, 2029     |   Perpetual: Aeris     Hunter      Week 4  
+Standard: Thursday  January 18, 2029     |   Perpetual: Ignis     Hunter      Week 4  
+Standard: Friday    January 19, 2029     |   Perpetual: Solis     Hunter      Week 5  
+Standard: Saturday  January 20, 2029     |   Perpetual: Lunae     Hunter      Week 5  
+Standard: Sunday    January 21, 2029     |   Perpetual: Stellae   Hunter      Week 5  
+Standard: Monday    January 22, 2029     |   Perpetual: Terrae    Hunter      Week 5  
+Standard: Tuesday   January 23, 2029     |   Perpetual: Aquae     Hunter      Week 5  
+Standard: Wednesday January 24, 2029     |   Perpetual: Aeris     Hunter      Week 5  
+Standard: Thursday  January 25, 2029     |   Perpetual: Ignis     Hunter      Week 5  
+Standard: Friday    January 26, 2029     |   Perpetual: Solis     Hunter      Week 6  
+Standard: Saturday  January 27, 2029     |   Perpetual: Lunae     Hunter      Week 6  
+Standard: Sunday    January 28, 2029     |   Perpetual: Stellae   Hunter      Week 6  
+Standard: Monday    January 29, 2029     |   Perpetual: Terrae    Hunter      Week 6  
+Standard: Tuesday   January 30, 2029     |   Perpetual: Aquae     Hunter      Week 6  
+Standard: Wednesday January 31, 2029     |   Perpetual: Aeris     Hunter      Week 6  
+Standard: Thursday  February 01, 2029    |   Perpetual: Ignis     Hunter      Week 6  
+Standard: Friday    February 02, 2029    |   Perpetual: Solis     Hunter      Week 7  
+Standard: Saturday  February 03, 2029    |   Perpetual: Lunae     Hunter      Week 7  
+Standard: Sunday    February 04, 2029    |   Perpetual: Stellae   Hunter      Week 7  
+Standard: Monday    February 05, 2029    |   Perpetual: Terrae    Hunter      Week 7  
+Standard: Tuesday   February 06, 2029    |   Perpetual: Aquae     Hunter      Week 7  
+Standard: Wednesday February 07, 2029    |   Perpetual: Aeris     Hunter      Week 7  
+Standard: Thursday  February 08, 2029    |   Perpetual: Ignis     Hunter      Week 7  
+Standard: Friday    February 09, 2029    |   Perpetual: Solis     Hunter      Week 8  
+Standard: Saturday  February 10, 2029    |   Perpetual: Lunae     Hunter      Week 8  
+Standard: Sunday    February 11, 2029    |   Perpetual: Stellae   Hunter      Week 8  
+Standard: Monday    February 12, 2029    |   Perpetual: Terrae    Hunter      Week 8  
+Standard: Tuesday   February 13, 2029    |   Perpetual: Aquae     Hunter      Week 8  
+Standard: Wednesday February 14, 2029    |   Perpetual: Aeris     Hunter      Week 8  
+Standard: Thursday  February 15, 2029    |   Perpetual: Ignis     Hunter      Week 8  
+Standard: Friday    February 16, 2029    |   Perpetual: Solis     Hunter      Week 9  
+Standard: Saturday  February 17, 2029    |   Perpetual: Lunae     Hunter      Week 9  
+Standard: Sunday    February 18, 2029    |   Perpetual: Stellae   Hunter      Week 9  
+Standard: Monday    February 19, 2029    |   Perpetual: Terrae    Hunter      Week 9  
+Standard: Tuesday   February 20, 2029    |   Perpetual: Aquae     Hunter      Week 9  
+Standard: Wednesday February 21, 2029    |   Perpetual: Aeris     Hunter      Week 9  
+Standard: Thursday  February 22, 2029    |   Perpetual: Ignis     Hunter      Week 9  
+Standard: Friday    February 23, 2029    |   Perpetual: Solis     Hunter      Week 10 
+Standard: Saturday  February 24, 2029    |   Perpetual: Lunae     Hunter      Week 10 
+Standard: Sunday    February 25, 2029    |   Perpetual: Stellae   Hunter      Week 10 
+Standard: Monday    February 26, 2029    |   Perpetual: Terrae    Hunter      Week 10 
+Standard: Tuesday   February 27, 2029    |   Perpetual: Aquae     Hunter      Week 10 
+Standard: Wednesday February 28, 2029    |   Perpetual: Aeris     Hunter      Week 10 
+Standard: Thursday  March 01, 2029       |   Perpetual: Ignis     Hunter      Week 10 
+Standard: Friday    March 02, 2029       |   Perpetual: Solis     Hunter      Week 11 
+Standard: Saturday  March 03, 2029       |   Perpetual: Lunae     Hunter      Week 11 
+Standard: Sunday    March 04, 2029       |   Perpetual: Stellae   Hunter      Week 11 
+Standard: Monday    March 05, 2029       |   Perpetual: Terrae    Hunter      Week 11 
+Standard: Tuesday   March 06, 2029       |   Perpetual: Aquae     Hunter      Week 11 
+Standard: Wednesday March 07, 2029       |   Perpetual: Aeris     Hunter      Week 11 
+Standard: Thursday  March 08, 2029       |   Perpetual: Ignis     Hunter      Week 11 
+Standard: Friday    March 09, 2029       |   Perpetual: Solis     Hunter      Week 12 
+Standard: Saturday  March 10, 2029       |   Perpetual: Lunae     Hunter      Week 12 
+Standard: Sunday    March 11, 2029       |   Perpetual: Stellae   Hunter      Week 12 
+Standard: Monday    March 12, 2029       |   Perpetual: Terrae    Hunter      Week 12 
+Standard: Tuesday   March 13, 2029       |   Perpetual: Aquae     Hunter      Week 12 
+Standard: Wednesday March 14, 2029       |   Perpetual: Aeris     Hunter      Week 12 
+Standard: Thursday  March 15, 2029       |   Perpetual: Ignis     Hunter      Week 12 
+Standard: Friday    March 16, 2029       |   Perpetual: Solis     Hunter      Week 13 
+Standard: Saturday  March 17, 2029       |   Perpetual: Lunae     Hunter      Week 13 
+Standard: Sunday    March 18, 2029       |   Perpetual: Stellae   Hunter      Week 13 
+Standard: Monday    March 19, 2029       |   Perpetual: Terrae    Hunter      Week 13 
+Standard: Tuesday   March 20, 2029       |   Perpetual: Aquae     Hunter      Week 13 
+Standard: Wednesday March 21, 2029       |   Perpetual: Aeris     Hunter      Week 13 
+Standard: Thursday  March 22, 2029       |   Perpetual: Ignis     Hunter      Week 13 
+Standard: Friday    March 23, 2029       |   Perpetual: Solis     Lion        Week 1  
+Standard: Saturday  March 24, 2029       |   Perpetual: Lunae     Lion        Week 1  
+Standard: Sunday    March 25, 2029       |   Perpetual: Stellae   Lion        Week 1  
+Standard: Monday    March 26, 2029       |   Perpetual: Terrae    Lion        Week 1  
+Standard: Tuesday   March 27, 2029       |   Perpetual: Aquae     Lion        Week 1  
+Standard: Wednesday March 28, 2029       |   Perpetual: Aeris     Lion        Week 1  
+Standard: Thursday  March 29, 2029       |   Perpetual: Ignis     Lion        Week 1  
+Standard: Friday    March 30, 2029       |   Perpetual: Solis     Lion        Week 2  
+Standard: Saturday  March 31, 2029       |   Perpetual: Lunae     Lion        Week 2  
+Standard: Sunday    April 01, 2029       |   Perpetual: Stellae   Lion        Week 2  
+Standard: Monday    April 02, 2029       |   Perpetual: Terrae    Lion        Week 2  
+Standard: Tuesday   April 03, 2029       |   Perpetual: Aquae     Lion        Week 2  
+Standard: Wednesday April 04, 2029       |   Perpetual: Aeris     Lion        Week 2  
+Standard: Thursday  April 05, 2029       |   Perpetual: Ignis     Lion        Week 2  
+Standard: Friday    April 06, 2029       |   Perpetual: Solis     Lion        Week 3  
+Standard: Saturday  April 07, 2029       |   Perpetual: Lunae     Lion        Week 3  
+Standard: Sunday    April 08, 2029       |   Perpetual: Stellae   Lion        Week 3  
+Standard: Monday    April 09, 2029       |   Perpetual: Terrae    Lion        Week 3  
+Standard: Tuesday   April 10, 2029       |   Perpetual: Aquae     Lion        Week 3  
+Standard: Wednesday April 11, 2029       |   Perpetual: Aeris     Lion        Week 3  
+Standard: Thursday  April 12, 2029       |   Perpetual: Ignis     Lion        Week 3  
+Standard: Friday    April 13, 2029       |   Perpetual: Solis     Lion        Week 4  
+Standard: Saturday  April 14, 2029       |   Perpetual: Lunae     Lion        Week 4  
+Standard: Sunday    April 15, 2029       |   Perpetual: Stellae   Lion        Week 4  
+Standard: Monday    April 16, 2029       |   Perpetual: Terrae    Lion        Week 4  
+Standard: Tuesday   April 17, 2029       |   Perpetual: Aquae     Lion        Week 4  
+Standard: Wednesday April 18, 2029       |   Perpetual: Aeris     Lion        Week 4  
+Standard: Thursday  April 19, 2029       |   Perpetual: Ignis     Lion        Week 4  
+Standard: Friday    April 20, 2029       |   Perpetual: Solis     Lion        Week 5  
+Standard: Saturday  April 21, 2029       |   Perpetual: Lunae     Lion        Week 5  
+Standard: Sunday    April 22, 2029       |   Perpetual: Stellae   Lion        Week 5  
+Standard: Monday    April 23, 2029       |   Perpetual: Terrae    Lion        Week 5  
+Standard: Tuesday   April 24, 2029       |   Perpetual: Aquae     Lion        Week 5  
+Standard: Wednesday April 25, 2029       |   Perpetual: Aeris     Lion        Week 5  
+Standard: Thursday  April 26, 2029       |   Perpetual: Ignis     Lion        Week 5  
+Standard: Friday    April 27, 2029       |   Perpetual: Solis     Lion        Week 6  
+Standard: Saturday  April 28, 2029       |   Perpetual: Lunae     Lion        Week 6  
+Standard: Sunday    April 29, 2029       |   Perpetual: Stellae   Lion        Week 6  
+Standard: Monday    April 30, 2029       |   Perpetual: Terrae    Lion        Week 6  
+Standard: Tuesday   May 01, 2029         |   Perpetual: Aquae     Lion        Week 6  
+Standard: Wednesday May 02, 2029         |   Perpetual: Aeris     Lion        Week 6  
+Standard: Thursday  May 03, 2029         |   Perpetual: Ignis     Lion        Week 6  
+Standard: Friday    May 04, 2029         |   Perpetual: Solis     Lion        Week 7  
+Standard: Saturday  May 05, 2029         |   Perpetual: Lunae     Lion        Week 7  
+Standard: Sunday    May 06, 2029         |   Perpetual: Stellae   Lion        Week 7  
+Standard: Monday    May 07, 2029         |   Perpetual: Terrae    Lion        Week 7  
+Standard: Tuesday   May 08, 2029         |   Perpetual: Aquae     Lion        Week 7  
+Standard: Wednesday May 09, 2029         |   Perpetual: Aeris     Lion        Week 7  
+Standard: Thursday  May 10, 2029         |   Perpetual: Ignis     Lion        Week 7  
+Standard: Friday    May 11, 2029         |   Perpetual: Solis     Lion        Week 8  
+Standard: Saturday  May 12, 2029         |   Perpetual: Lunae     Lion        Week 8  
+Standard: Sunday    May 13, 2029         |   Perpetual: Stellae   Lion        Week 8  
+Standard: Monday    May 14, 2029         |   Perpetual: Terrae    Lion        Week 8  
+Standard: Tuesday   May 15, 2029         |   Perpetual: Aquae     Lion        Week 8  
+Standard: Wednesday May 16, 2029         |   Perpetual: Aeris     Lion        Week 8  
+Standard: Thursday  May 17, 2029         |   Perpetual: Ignis     Lion        Week 8  
+Standard: Friday    May 18, 2029         |   Perpetual: Solis     Lion        Week 9  
+Standard: Saturday  May 19, 2029         |   Perpetual: Lunae     Lion        Week 9  
+Standard: Sunday    May 20, 2029         |   Perpetual: Stellae   Lion        Week 9  
+Standard: Monday    May 21, 2029         |   Perpetual: Terrae    Lion        Week 9  
+Standard: Tuesday   May 22, 2029         |   Perpetual: Aquae     Lion        Week 9  
+Standard: Wednesday May 23, 2029         |   Perpetual: Aeris     Lion        Week 9  
+Standard: Thursday  May 24, 2029         |   Perpetual: Ignis     Lion        Week 9  
+Standard: Friday    May 25, 2029         |   Perpetual: Solis     Lion        Week 10 
+Standard: Saturday  May 26, 2029         |   Perpetual: Lunae     Lion        Week 10 
+Standard: Sunday    May 27, 2029         |   Perpetual: Stellae   Lion        Week 10 
+Standard: Monday    May 28, 2029         |   Perpetual: Terrae    Lion        Week 10 
+Standard: Tuesday   May 29, 2029         |   Perpetual: Aquae     Lion        Week 10 
+Standard: Wednesday May 30, 2029         |   Perpetual: Aeris     Lion        Week 10 
+Standard: Thursday  May 31, 2029         |   Perpetual: Ignis     Lion        Week 10 
+Standard: Friday    June 01, 2029        |   Perpetual: Solis     Lion        Week 11 
+Standard: Saturday  June 02, 2029        |   Perpetual: Lunae     Lion        Week 11 
+Standard: Sunday    June 03, 2029        |   Perpetual: Stellae   Lion        Week 11 
+Standard: Monday    June 04, 2029        |   Perpetual: Terrae    Lion        Week 11 
+Standard: Tuesday   June 05, 2029        |   Perpetual: Aquae     Lion        Week 11 
+Standard: Wednesday June 06, 2029        |   Perpetual: Aeris     Lion        Week 11 
+Standard: Thursday  June 07, 2029        |   Perpetual: Ignis     Lion        Week 11 
+Standard: Friday    June 08, 2029        |   Perpetual: Solis     Lion        Week 12 
+Standard: Saturday  June 09, 2029        |   Perpetual: Lunae     Lion        Week 12 
+Standard: Sunday    June 10, 2029        |   Perpetual: Stellae   Lion        Week 12 
+Standard: Monday    June 11, 2029        |   Perpetual: Terrae    Lion        Week 12 
+Standard: Tuesday   June 12, 2029        |   Perpetual: Aquae     Lion        Week 12 
+Standard: Wednesday June 13, 2029        |   Perpetual: Aeris     Lion        Week 12 
+Standard: Thursday  June 14, 2029        |   Perpetual: Ignis     Lion        Week 12 
+Standard: Friday    June 15, 2029        |   Perpetual: Solis     Lion        Week 13 
+Standard: Saturday  June 16, 2029        |   Perpetual: Lunae     Lion        Week 13 
+Standard: Sunday    June 17, 2029        |   Perpetual: Stellae   Lion        Week 13 
+Standard: Monday    June 18, 2029        |   Perpetual: Terrae    Lion        Week 13 
+Standard: Tuesday   June 19, 2029        |   Perpetual: Aquae     Lion        Week 13 
+Standard: Wednesday June 20, 2029        |   Perpetual: Aeris     Lion        Week 13 
+Standard: Thursday  June 21, 2029        |   Perpetual: Ignis     Lion        Week 13 
+Standard: Friday    June 22, 2029        |   Perpetual: Solis     Eagle       Week 1  
+Standard: Saturday  June 23, 2029        |   Perpetual: Lunae     Eagle       Week 1  
+Standard: Sunday    June 24, 2029        |   Perpetual: Stellae   Eagle       Week 1  
+Standard: Monday    June 25, 2029        |   Perpetual: Terrae    Eagle       Week 1  
+Standard: Tuesday   June 26, 2029        |   Perpetual: Aquae     Eagle       Week 1  
+Standard: Wednesday June 27, 2029        |   Perpetual: Aeris     Eagle       Week 1  
+Standard: Thursday  June 28, 2029        |   Perpetual: Ignis     Eagle       Week 1  
+Standard: Friday    June 29, 2029        |   Perpetual: Solis     Eagle       Week 2  
+Standard: Saturday  June 30, 2029        |   Perpetual: Lunae     Eagle       Week 2  
+Standard: Sunday    July 01, 2029        |   Perpetual: Stellae   Eagle       Week 2  
+Standard: Monday    July 02, 2029        |   Perpetual: Terrae    Eagle       Week 2  
+Standard: Tuesday   July 03, 2029        |   Perpetual: Aquae     Eagle       Week 2  
+Standard: Wednesday July 04, 2029        |   Perpetual: Aeris     Eagle       Week 2  
+Standard: Thursday  July 05, 2029        |   Perpetual: Ignis     Eagle       Week 2  
+Standard: Friday    July 06, 2029        |   Perpetual: Solis     Eagle       Week 3  
+Standard: Saturday  July 07, 2029        |   Perpetual: Lunae     Eagle       Week 3  
+Standard: Sunday    July 08, 2029        |   Perpetual: Stellae   Eagle       Week 3  
+Standard: Monday    July 09, 2029        |   Perpetual: Terrae    Eagle       Week 3  
+Standard: Tuesday   July 10, 2029        |   Perpetual: Aquae     Eagle       Week 3  
+Standard: Wednesday July 11, 2029        |   Perpetual: Aeris     Eagle       Week 3  
+Standard: Thursday  July 12, 2029        |   Perpetual: Ignis     Eagle       Week 3  
+Standard: Friday    July 13, 2029        |   Perpetual: Solis     Eagle       Week 4  
+Standard: Saturday  July 14, 2029        |   Perpetual: Lunae     Eagle       Week 4  
+Standard: Sunday    July 15, 2029        |   Perpetual: Stellae   Eagle       Week 4  
+Standard: Monday    July 16, 2029        |   Perpetual: Terrae    Eagle       Week 4  
+Standard: Tuesday   July 17, 2029        |   Perpetual: Aquae     Eagle       Week 4  
+Standard: Wednesday July 18, 2029        |   Perpetual: Aeris     Eagle       Week 4  
+Standard: Thursday  July 19, 2029        |   Perpetual: Ignis     Eagle       Week 4  
+Standard: Friday    July 20, 2029        |   Perpetual: Solis     Eagle       Week 5  
+Standard: Saturday  July 21, 2029        |   Perpetual: Lunae     Eagle       Week 5  
+Standard: Sunday    July 22, 2029        |   Perpetual: Stellae   Eagle       Week 5  
+Standard: Monday    July 23, 2029        |   Perpetual: Terrae    Eagle       Week 5  
+Standard: Tuesday   July 24, 2029        |   Perpetual: Aquae     Eagle       Week 5  
+Standard: Wednesday July 25, 2029        |   Perpetual: Aeris     Eagle       Week 5  
+Standard: Thursday  July 26, 2029        |   Perpetual: Ignis     Eagle       Week 5  
+Standard: Friday    July 27, 2029        |   Perpetual: Solis     Eagle       Week 6  
+Standard: Saturday  July 28, 2029        |   Perpetual: Lunae     Eagle       Week 6  
+Standard: Sunday    July 29, 2029        |   Perpetual: Stellae   Eagle       Week 6  
+Standard: Monday    July 30, 2029        |   Perpetual: Terrae    Eagle       Week 6  
+Standard: Tuesday   July 31, 2029        |   Perpetual: Aquae     Eagle       Week 6  
+Standard: Wednesday August 01, 2029      |   Perpetual: Aeris     Eagle       Week 6  
+Standard: Thursday  August 02, 2029      |   Perpetual: Ignis     Eagle       Week 6  
+Standard: Friday    August 03, 2029      |   Perpetual: Solis     Eagle       Week 7  
+Standard: Saturday  August 04, 2029      |   Perpetual: Lunae     Eagle       Week 7  
+Standard: Sunday    August 05, 2029      |   Perpetual: Stellae   Eagle       Week 7  
+Standard: Monday    August 06, 2029      |   Perpetual: Terrae    Eagle       Week 7  
+Standard: Tuesday   August 07, 2029      |   Perpetual: Aquae     Eagle       Week 7  
+Standard: Wednesday August 08, 2029      |   Perpetual: Aeris     Eagle       Week 7  
+Standard: Thursday  August 09, 2029      |   Perpetual: Ignis     Eagle       Week 7  
+Standard: Friday    August 10, 2029      |   Perpetual: Solis     Eagle       Week 8  
+Standard: Saturday  August 11, 2029      |   Perpetual: Lunae     Eagle       Week 8  
+Standard: Sunday    August 12, 2029      |   Perpetual: Stellae   Eagle       Week 8  
+Standard: Monday    August 13, 2029      |   Perpetual: Terrae    Eagle       Week 8  
+Standard: Tuesday   August 14, 2029      |   Perpetual: Aquae     Eagle       Week 8  
+Standard: Wednesday August 15, 2029      |   Perpetual: Aeris     Eagle       Week 8  
+Standard: Thursday  August 16, 2029      |   Perpetual: Ignis     Eagle       Week 8  
+Standard: Friday    August 17, 2029      |   Perpetual: Solis     Eagle       Week 9  
+Standard: Saturday  August 18, 2029      |   Perpetual: Lunae     Eagle       Week 9  
+Standard: Sunday    August 19, 2029      |   Perpetual: Stellae   Eagle       Week 9  
+Standard: Monday    August 20, 2029      |   Perpetual: Terrae    Eagle       Week 9  
+Standard: Tuesday   August 21, 2029      |   Perpetual: Aquae     Eagle       Week 9  
+Standard: Wednesday August 22, 2029      |   Perpetual: Aeris     Eagle       Week 9  
+Standard: Thursday  August 23, 2029      |   Perpetual: Ignis     Eagle       Week 9  
+Standard: Friday    August 24, 2029      |   Perpetual: Solis     Eagle       Week 10 
+Standard: Saturday  August 25, 2029      |   Perpetual: Lunae     Eagle       Week 10 
+Standard: Sunday    August 26, 2029      |   Perpetual: Stellae   Eagle       Week 10 
+Standard: Monday    August 27, 2029      |   Perpetual: Terrae    Eagle       Week 10 
+Standard: Tuesday   August 28, 2029      |   Perpetual: Aquae     Eagle       Week 10 
+Standard: Wednesday August 29, 2029      |   Perpetual: Aeris     Eagle       Week 10 
+Standard: Thursday  August 30, 2029      |   Perpetual: Ignis     Eagle       Week 10 
+Standard: Friday    August 31, 2029      |   Perpetual: Solis     Eagle       Week 11 
+Standard: Saturday  September 01, 2029   |   Perpetual: Lunae     Eagle       Week 11 
+Standard: Sunday    September 02, 2029   |   Perpetual: Stellae   Eagle       Week 11 
+Standard: Monday    September 03, 2029   |   Perpetual: Terrae    Eagle       Week 11 
+Standard: Tuesday   September 04, 2029   |   Perpetual: Aquae     Eagle       Week 11 
+Standard: Wednesday September 05, 2029   |   Perpetual: Aeris     Eagle       Week 11 
+Standard: Thursday  September 06, 2029   |   Perpetual: Ignis     Eagle       Week 11 
+Standard: Friday    September 07, 2029   |   Perpetual: Solis     Eagle       Week 12 
+Standard: Saturday  September 08, 2029   |   Perpetual: Lunae     Eagle       Week 12 
+Standard: Sunday    September 09, 2029   |   Perpetual: Stellae   Eagle       Week 12 
+Standard: Monday    September 10, 2029   |   Perpetual: Terrae    Eagle       Week 12 
+Standard: Tuesday   September 11, 2029   |   Perpetual: Aquae     Eagle       Week 12 
+Standard: Wednesday September 12, 2029   |   Perpetual: Aeris     Eagle       Week 12 
+Standard: Thursday  September 13, 2029   |   Perpetual: Ignis     Eagle       Week 12 
+Standard: Friday    September 14, 2029   |   Perpetual: Solis     Eagle       Week 13 
+Standard: Saturday  September 15, 2029   |   Perpetual: Lunae     Eagle       Week 13 
+Standard: Sunday    September 16, 2029   |   Perpetual: Stellae   Eagle       Week 13 
+Standard: Monday    September 17, 2029   |   Perpetual: Terrae    Eagle       Week 13 
+Standard: Tuesday   September 18, 2029   |   Perpetual: Aquae     Eagle       Week 13 
+Standard: Wednesday September 19, 2029   |   Perpetual: Aeris     Eagle       Week 13 
+Standard: Thursday  September 20, 2029   |   Perpetual: Ignis     Eagle       Week 13 
+Standard: Friday    September 21, 2029   |   Perpetual: Solis     Water Bearer Week 1  
+Standard: Saturday  September 22, 2029   |   Perpetual: Lunae     Water Bearer Week 1  
+Standard: Sunday    September 23, 2029   |   Perpetual: Stellae   Water Bearer Week 1  
+Standard: Monday    September 24, 2029   |   Perpetual: Terrae    Water Bearer Week 1  
+Standard: Tuesday   September 25, 2029   |   Perpetual: Aquae     Water Bearer Week 1  
+Standard: Wednesday September 26, 2029   |   Perpetual: Aeris     Water Bearer Week 1  
+Standard: Thursday  September 27, 2029   |   Perpetual: Ignis     Water Bearer Week 1  
+Standard: Friday    September 28, 2029   |   Perpetual: Solis     Water Bearer Week 2  
+Standard: Saturday  September 29, 2029   |   Perpetual: Lunae     Water Bearer Week 2  
+Standard: Sunday    September 30, 2029   |   Perpetual: Stellae   Water Bearer Week 2  
+Standard: Monday    October 01, 2029     |   Perpetual: Terrae    Water Bearer Week 2  
+Standard: Tuesday   October 02, 2029     |   Perpetual: Aquae     Water Bearer Week 2  
+Standard: Wednesday October 03, 2029     |   Perpetual: Aeris     Water Bearer Week 2  
+Standard: Thursday  October 04, 2029     |   Perpetual: Ignis     Water Bearer Week 2  
+Standard: Friday    October 05, 2029     |   Perpetual: Solis     Water Bearer Week 3  
+Standard: Saturday  October 06, 2029     |   Perpetual: Lunae     Water Bearer Week 3  
+Standard: Sunday    October 07, 2029     |   Perpetual: Stellae   Water Bearer Week 3  
+Standard: Monday    October 08, 2029     |   Perpetual: Terrae    Water Bearer Week 3  
+Standard: Tuesday   October 09, 2029     |   Perpetual: Aquae     Water Bearer Week 3  
+Standard: Wednesday October 10, 2029     |   Perpetual: Aeris     Water Bearer Week 3  
+Standard: Thursday  October 11, 2029     |   Perpetual: Ignis     Water Bearer Week 3  
+Standard: Friday    October 12, 2029     |   Perpetual: Solis     Water Bearer Week 4  
+Standard: Saturday  October 13, 2029     |   Perpetual: Lunae     Water Bearer Week 4  
+Standard: Sunday    October 14, 2029     |   Perpetual: Stellae   Water Bearer Week 4  
+Standard: Monday    October 15, 2029     |   Perpetual: Terrae    Water Bearer Week 4  
+Standard: Tuesday   October 16, 2029     |   Perpetual: Aquae     Water Bearer Week 4  
+Standard: Wednesday October 17, 2029     |   Perpetual: Aeris     Water Bearer Week 4  
+Standard: Thursday  October 18, 2029     |   Perpetual: Ignis     Water Bearer Week 4  
+Standard: Friday    October 19, 2029     |   Perpetual: Solis     Water Bearer Week 5  
+Standard: Saturday  October 20, 2029     |   Perpetual: Lunae     Water Bearer Week 5  
+Standard: Sunday    October 21, 2029     |   Perpetual: Stellae   Water Bearer Week 5  
+Standard: Monday    October 22, 2029     |   Perpetual: Terrae    Water Bearer Week 5  
+Standard: Tuesday   October 23, 2029     |   Perpetual: Aquae     Water Bearer Week 5  
+Standard: Wednesday October 24, 2029     |   Perpetual: Aeris     Water Bearer Week 5  
+Standard: Thursday  October 25, 2029     |   Perpetual: Ignis     Water Bearer Week 5  
+Standard: Friday    October 26, 2029     |   Perpetual: Solis     Water Bearer Week 6  
+Standard: Saturday  October 27, 2029     |   Perpetual: Lunae     Water Bearer Week 6  
+Standard: Sunday    October 28, 2029     |   Perpetual: Stellae   Water Bearer Week 6  
+Standard: Monday    October 29, 2029     |   Perpetual: Terrae    Water Bearer Week 6  
+Standard: Tuesday   October 30, 2029     |   Perpetual: Aquae     Water Bearer Week 6  
+Standard: Wednesday October 31, 2029     |   Perpetual: Aeris     Water Bearer Week 6  
+Standard: Thursday  November 01, 2029    |   Perpetual: Ignis     Water Bearer Week 6  
+Standard: Friday    November 02, 2029    |   Perpetual: Solis     Water Bearer Week 7  
+Standard: Saturday  November 03, 2029    |   Perpetual: Lunae     Water Bearer Week 7  
+Standard: Sunday    November 04, 2029    |   Perpetual: Stellae   Water Bearer Week 7  
+Standard: Monday    November 05, 2029    |   Perpetual: Terrae    Water Bearer Week 7  
+Standard: Tuesday   November 06, 2029    |   Perpetual: Aquae     Water Bearer Week 7  
+Standard: Wednesday November 07, 2029    |   Perpetual: Aeris     Water Bearer Week 7  
+Standard: Thursday  November 08, 2029    |   Perpetual: Ignis     Water Bearer Week 7  
+Standard: Friday    November 09, 2029    |   Perpetual: Solis     Water Bearer Week 8  
+Standard: Saturday  November 10, 2029    |   Perpetual: Lunae     Water Bearer Week 8  
+Standard: Sunday    November 11, 2029    |   Perpetual: Stellae   Water Bearer Week 8  
+Standard: Monday    November 12, 2029    |   Perpetual: Terrae    Water Bearer Week 8  
+Standard: Tuesday   November 13, 2029    |   Perpetual: Aquae     Water Bearer Week 8  
+Standard: Wednesday November 14, 2029    |   Perpetual: Aeris     Water Bearer Week 8  
+Standard: Thursday  November 15, 2029    |   Perpetual: Ignis     Water Bearer Week 8  
+Standard: Friday    November 16, 2029    |   Perpetual: Solis     Water Bearer Week 9  
+Standard: Saturday  November 17, 2029    |   Perpetual: Lunae     Water Bearer Week 9  
+Standard: Sunday    November 18, 2029    |   Perpetual: Stellae   Water Bearer Week 9  
+Standard: Monday    November 19, 2029    |   Perpetual: Terrae    Water Bearer Week 9  
+Standard: Tuesday   November 20, 2029    |   Perpetual: Aquae     Water Bearer Week 9  
+Standard: Wednesday November 21, 2029    |   Perpetual: Aeris     Water Bearer Week 9  
+Standard: Thursday  November 22, 2029    |   Perpetual: Ignis     Water Bearer Week 9  
+Standard: Friday    November 23, 2029    |   Perpetual: Solis     Water Bearer Week 10 
+Standard: Saturday  November 24, 2029    |   Perpetual: Lunae     Water Bearer Week 10 
+Standard: Sunday    November 25, 2029    |   Perpetual: Stellae   Water Bearer Week 10 
+Standard: Monday    November 26, 2029    |   Perpetual: Terrae    Water Bearer Week 10 
+Standard: Tuesday   November 27, 2029    |   Perpetual: Aquae     Water Bearer Week 10 
+Standard: Wednesday November 28, 2029    |   Perpetual: Aeris     Water Bearer Week 10 
+Standard: Thursday  November 29, 2029    |   Perpetual: Ignis     Water Bearer Week 10 
+Standard: Friday    November 30, 2029    |   Perpetual: Solis     Water Bearer Week 11 
+Standard: Saturday  December 01, 2029    |   Perpetual: Lunae     Water Bearer Week 11 
+Standard: Sunday    December 02, 2029    |   Perpetual: Stellae   Water Bearer Week 11 
+Standard: Monday    December 03, 2029    |   Perpetual: Terrae    Water Bearer Week 11 
+Standard: Tuesday   December 04, 2029    |   Perpetual: Aquae     Water Bearer Week 11 
+Standard: Wednesday December 05, 2029    |   Perpetual: Aeris     Water Bearer Week 11 
+Standard: Thursday  December 06, 2029    |   Perpetual: Ignis     Water Bearer Week 11 
+Standard: Friday    December 07, 2029    |   Perpetual: Solis     Water Bearer Week 12 
+Standard: Saturday  December 08, 2029    |   Perpetual: Lunae     Water Bearer Week 12 
+Standard: Sunday    December 09, 2029    |   Perpetual: Stellae   Water Bearer Week 12 
+Standard: Monday    December 10, 2029    |   Perpetual: Terrae    Water Bearer Week 12 
+Standard: Tuesday   December 11, 2029    |   Perpetual: Aquae     Water Bearer Week 12 
+Standard: Wednesday December 12, 2029    |   Perpetual: Aeris     Water Bearer Week 12 
+Standard: Thursday  December 13, 2029    |   Perpetual: Ignis     Water Bearer Week 12 
+Standard: Friday    December 14, 2029    |   Perpetual: Solis     Water Bearer Week 13 
+Standard: Saturday  December 15, 2029    |   Perpetual: Lunae     Water Bearer Week 13 
+Standard: Sunday    December 16, 2029    |   Perpetual: Stellae   Water Bearer Week 13 
+Standard: Monday    December 17, 2029    |   Perpetual: Terrae    Water Bearer Week 13 
+Standard: Tuesday   December 18, 2029    |   Perpetual: Aquae     Water Bearer Week 13 
+Standard: Wednesday December 19, 2029    |   Perpetual: Aeris     Water Bearer Week 13 
+Standard: Thursday  December 20, 2029    |   Perpetual: Ignis     Water Bearer Week 13 
+Standard: Friday    December 21, 2029    |   Perpetual: --- Year Day (December Solstice)   ---
